@@ -1,0 +1,8 @@
+# CPython cache
+__pycache__/
+
+# build folder
+dist/
+
+# Visual Studio Code folder
+.vscode/

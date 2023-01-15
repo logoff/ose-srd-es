@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ose-srd-es"
+version = "0.1.0"
+description = "Traducción del System Reference Document (SRD) de Old-School Essentials (OSE) al español."
+authors = ["logoff"]
+license = "Open Game License v 1.0a"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+mkdocs = "^1.4.2"
+mkdocs-material = "^9.0.5"
+mkdocs-roamlinks-plugin = "^0.2.0"
+mkdocs-macros-plugin = "^0.7.0"
+mkdocs-glightbox = "^0.3.1"
+babel = "^2.11.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

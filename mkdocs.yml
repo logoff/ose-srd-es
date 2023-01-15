@@ -1,0 +1,40 @@
+site_name: Old-School Essentials SRD en Español
+site_url: #https://github.com/logoff/ose-srd-es
+site_dir: ./dist/
+docs_dir: ./src/
+
+theme:
+  name: material
+  palette:
+    scheme: ose
+  logo: img/ose-logo.ico
+  favicon: img/ose-logo.ico
+  font:
+    text: Economica
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - roamlinks
+  - macros
+  - glightbox:
+      touchNavigation: true
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.magiclink
+
+copyright: Creado por logoff
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/logoff/ose-srd-es
