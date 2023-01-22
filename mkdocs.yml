@@ -5,6 +5,7 @@ docs_dir: ./src/
 
 theme:
   name: material
+  language: es
   palette:
     scheme: ose
   logo: img/ose-logo.ico
