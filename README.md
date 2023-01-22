@@ -7,6 +7,7 @@ Traducción del System Reference Document (SRD) de Old-School Essentials (OSE) a
 
 * [Python](https://www.python.org/) 3.7+
 * [Poetry](https://python-poetry.org/)
+* [GNU Make](https://www.gnu.org/software/make/)
 * [Docker](https://www.docker.com/) (opcional)
 
 ## Desarrollo
@@ -14,8 +15,7 @@ Traducción del System Reference Document (SRD) de Old-School Essentials (OSE) a
 ### Sin Docker
 
 ```
-poetry install
-poetry run mkdocs serve --dev-addr=0.0.0.0:8000
+make serve-site
 ```
 
 Abrir http://localhost:8000/ en un navegador web.
@@ -26,19 +26,13 @@ Abrir http://localhost:8000/ en un navegador web.
 #### Construir la imagen
 
 ```
-docker build --tag=ose-srd-es:$(poetry version --short) .
+make docker-build
 ```
 
 #### Correr la imagen
 
 ```
-docker container run --rm -it \
-  -v $(pwd)/mkdocs.yml:/site/mkdocs.yml \
-  -v $(pwd)/src:/site/src \
-  -v $(pwd)/main.py:/site/main.py \
-  -v $(pwd)/.git:/site/.git \
-  -p 8000:8000 \
-  ose-srd-es:$(poetry version --short)
+make docker-serve-site
 ```
 
 Abrir http://localhost:8000/ en un navegador web.
