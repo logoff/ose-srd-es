@@ -1,5 +1,5 @@
 site_name: Old-School Essentials SRD en Español
-site_url: #https://github.com/logoff/ose-srd-es
+site_url: https://logoff.github.io/ose-srd-es/
 site_dir: ./dist/
 docs_dir: ./src/
 
@@ -17,6 +17,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - toc.follow
 
 extra_css:
   - stylesheets/extra.css
@@ -24,14 +25,18 @@ extra_css:
 plugins:
   - search
   - roamlinks
-  - macros
   - glightbox:
       touchNavigation: true
+  - awesome-pages
+  - macros
 
 markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.magiclink
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 copyright: Creado por logoff
 extra:
