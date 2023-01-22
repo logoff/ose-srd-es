@@ -49,7 +49,7 @@ La velocidad a la que un personaje puede moverse mientras explora, viaja o duran
 ## Habilidades de clase
 Finalmente, cada clase incluye un conjunto de habilidades que el personaje puede usar. Estas incluyen la capacidad de usar ciertos tipos de armaduras y armas, así como la habilidad de hablar uno o más idiomas.
 
-!!! regla-opcional ""
+!!! caja ""
     ## CA Ascendente (regla opcional)
 
     Algunos grupos de jugadores están más familiarizados con un sistema de Clase de Armadura donde los valores más altos son mejores. Este sistema se conoce como Clase de Armadura Ascendente(CAA), y funciona de la siguiente manera:

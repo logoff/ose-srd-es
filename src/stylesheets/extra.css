@@ -3,11 +3,14 @@
   --md-primary-fg-color--light: #f3ffec;
   --md-primary-fg-color--dark:  #85b06c;
   --md-primary-bg-color:        #000000;
-  --md-admonition-bg-color:     #d8edd6;
 }
 
-.md-typeset .admonition.regla-opcional,
-.md-typeset details.regla-opcional {
+.md-typeset .admonition.caja,
+.md-typeset details.caja {
   border-color: #d8edd6;
+  background-color: #d8edd6;
 }
 
+.md-typeset .admonition.caja > h2, h3, h4 {
+  font-weight: bold;
+}
