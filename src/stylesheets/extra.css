@@ -5,6 +5,8 @@
   --md-primary-bg-color:        #000000;
 }
 
+/* caja admonition to highlight boxes and headings */
+
 .md-typeset .admonition.caja,
 .md-typeset details.caja {
   border-color: #d8edd6;
@@ -13,4 +15,23 @@
 
 .md-typeset .admonition.caja > h2, h3, h4 {
   font-weight: bold;
+  margin: 0.2em 0 0.2em;
+}
+
+/* format for tables */
+.md-typeset table:not([class]) th {
+  min-width: 0;
+}
+
+.md-typeset__table thead {
+  background-color: black;
+  color: white;
+}
+
+.md-typeset__table tbody tr:nth-child(even) {
+  background-color: #d8edd6;
+}
+
+.md-typeset table:not([class]) td:not([align]) {
+  text-align: center;
 }
