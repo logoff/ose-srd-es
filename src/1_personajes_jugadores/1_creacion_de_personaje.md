@@ -64,7 +64,9 @@ La clase de tu personaje determina qué idiomas conoce. Esto siempre incluye la 
 
 !!! caja ""
     ## 10. Compra tu equipo
-Cada personaje comienza el juego con 3d6 x 10 piezas de oro (consulta Riqueza, pág. 17). Puedes gastar tanto dinero como quieras para equipar tu personaje para la aventura, consultando las listas de equipamiento disponibles en el libro de reglas de género empleado.Recuerda: La clase elegida puede restringir el uso de algunos objetos (por ejemplo, armas y armaduras).
+Cada personaje comienza el juego con 3d6 x 10 piezas de oro (consulta Riqueza, pág. 17). Puedes gastar tanto dinero como quieras para equipar tu personaje para la aventura, consultando las listas de equipamiento disponibles en el libro de reglas de género empleado.
+
+**Recuerda**: La clase elegida puede restringir el uso de algunos objetos (por ejemplo, armas y armaduras).
 
 !!! caja ""
     ## 11. Apunta tu Clase de Armadura
@@ -80,4 +82,8 @@ Si tu personaje no tiene armadura, su CA básica es 9 [10].
 
 !!! caja ""
     ## 12. Apunta nivel y PX
-Tu personaje comienza la partida con nivel 1 y 0 PX.13. Nombre del personajeFinalmente, elige un nombre para tu personaje. ¡Ya estás listo para la aventura!
+Tu personaje comienza la partida con nivel 1 y 0 PX.
+
+!!! caja ""
+    ## 13. Nombre del personaje
+Finalmente, elige un nombre para tu personaje. ¡Ya estás listo para la aventura!
