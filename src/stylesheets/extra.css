@@ -6,7 +6,6 @@
 }
 
 /* h2 headings with greenish format */
-
 .md-typeset h2 {
   font-weight: bold;
   margin: 0.2em 0 0.2em;
@@ -14,14 +13,18 @@
   background-color: #d8edd6;
 }
 
-/* caja admonition to highlight boxes and headings */
+/* h3 headings with bold format */
+.md-typeset h3 {
+  font-weight: bold;
+  margin: 0.2em 0 0.2em;
+}
 
+/* caja admonition to highlight boxes and headings */
 .md-typeset .admonition.caja,
 .md-typeset details.caja {
   border-color: #d8edd6;
   background-color: #d8edd6;
 }
-
 
 .md-typeset .admonition.caja > h2, h3, h4 {
   font-weight: bold;
@@ -36,6 +39,14 @@
 .md-typeset__table thead {
   background-color: black;
   color: white;
+}
+
+.md-typeset__table tbody td {
+  font-weight: inherit;
+}
+
+.md-typeset__table tbody tr:nth-child(1) {
+  font-weight: bold;
 }
 
 .md-typeset__table tbody tr:nth-child(even) {
