@@ -12,10 +12,8 @@ Todas las criaturas, ya sean PJ, PNJ o monstruos, se adhieren a una de las tres 
 
 **Caos**: Los seres caóticos son completamente opuestos a los ideales de la Ley. Estas criaturas nunca son de fiar, ya que tienden a actuar de manera malvada y egoísta. Los personajes caóticos creen en el poder del azar y rechazan cualquier orden en la vida.
 
-!!! caja ""
-    ## Revelar el alineamiento
+## Revelar el alineamiento
 Cada jugador debe informar al Árbitro del alineamiento de su personaje, pero no tiene por qué revelarlo al resto del grupo.
 
-!!! caja ""
-    ## Seguir el alineamiento
+## Seguir el alineamiento
 Al determinar las acciones de un personaje, los jugadores deberían hacer todo lo posible para seguir el alineamiento elegido. El Árbitro deberá tomar nota cuando el comportamiento de un personaje se desvíe demasiado de su alineamiento y podrá asignarle uno nuevo, más acorde a sus acciones. Si el Árbitro lo ve necesario, puede asignar penalizaciones por desviarse del alineamiento.

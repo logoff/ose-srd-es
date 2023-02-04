@@ -1,7 +1,7 @@
 nav:
     - index.md
     - Personajes jugadores:     1_personajes_jugadores
-    - Aventura:                 2_aventura
+    - Saliendo de aventuras:    2_aventura
     - Magia:                    3_magia
     - Monstruos:                4_monstruos
     - Desarrollar una aventura: 5_desarrollar_una_aventura

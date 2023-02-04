@@ -15,20 +15,16 @@ tags:
 
 Los personajes más exitosos acumulan riquezas con el botín de sus aventuras. La forma más común (¡y útil!) de un tesoro es el dinero.
 
-!!! caja ""
-    ## Dinero
+## Dinero
 La moneda más común es la moneda de oro (mo). Existen monedas hechas a partir de otros materiales: platino (mp), electro (me), plata (ml) y cobre (mc). Puedes encontrar su conversión en la tabla superior.
 
-!!! caja ""
-    ## Monedas alternativas
+## Monedas alternativas
 Las reglas básicas usan la moneda de oro como su estándar, pero otros trasfondos pueden usar otro tipo de moneda como alternativa.
 
-!!! caja ""
-    ## Riqueza inicial
+## Riqueza inicial
 Un PJ empieza la partida con 3d6 x 10 monedas de oro.
 
-!!! caja ""
-    ## Herencia
+## Herencia
 Ante la posibilidad de la muerte de su personaje, los jugadores pueden crear un testamento para sus personajes, para así dejar sus riquezas a un heredero. El Árbitro puede aplicar las siguientes condiciones:
 
 ▶ Impuestos: Se le cobrará un impuesto del 10% del total a cualquier tesoro heredado.

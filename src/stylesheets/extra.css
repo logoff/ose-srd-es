@@ -5,6 +5,15 @@
   --md-primary-bg-color:        #000000;
 }
 
+/* h2 headings with greenish format */
+
+.md-typeset h2 {
+  font-weight: bold;
+  margin: 0.2em 0 0.2em;
+  border-color: #d8edd6;
+  background-color: #d8edd6;
+}
+
 /* caja admonition to highlight boxes and headings */
 
 .md-typeset .admonition.caja,
@@ -12,6 +21,7 @@
   border-color: #d8edd6;
   background-color: #d8edd6;
 }
+
 
 .md-typeset .admonition.caja > h2, h3, h4 {
   font-weight: bold;

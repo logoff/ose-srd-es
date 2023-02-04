@@ -6,16 +6,14 @@ tags:
 
 El valor de cada característica de un personaje determina si tiene bonificaciones o penalizaciones asociadas a diferentes acciones durante la partida. Las tablas en la siguiente página presentan los modificadores de cada característica.
 
-!!! caja ""
-    ## Fuerza (FUE)
+## Fuerza (FUE)
 Músculo y poder físico.
 
 ▶ Cuerpo a cuerpo: Se aplica a las tiradas de ataque y de daño en combate cuerpo a cuerpo.
 
 ▶ Abrir puertas: La probabilidad de éxito al intentar abrir una puerta atascada (ver pág. 28).
 
-!!! caja ""
-    ## Destreza (DES)
+## Destreza (DES)
 Agilidad, reflejos, velocidad y equilibrio.
 
 ▶ CA: Modifica la CA del personaje (una bonificación reduce la CA, una penalización la aumenta).
@@ -24,30 +22,26 @@ Agilidad, reflejos, velocidad y equilibrio.
 
 ▶ Iniciativa: Modifica la tirada de iniciativa de un personaje si se está usando la regla opcional de iniciativa individual (ver Combate, pág. 40).
 
-!!! caja ""
-    ## Constitución (CON)
+## Constitución (CON)
 Salud, resistencia y aguante.
 
 ▶ Puntos de golpe: Se aplica a la hora de calcular los puntos de golpe de un personaje (es decir, a nivel 1 y cada vez que se aumenta de nivel). Un personaje siempre gana un mínimo de 1 punto de golpe por cada Dado de Golpe, sin importar el modificador por CON.
 
-!!! caja ""
-    ## Inteligencia (INT)
+## Inteligencia (INT)
 Aprendizaje, memoria y razonamiento.
 
 ▶ Idiomas conocidos: Indica el número de idiomas que conoce el personaje.
 
 ▶ Alfabetización: Indica la capacidad del personaje para leer y escribir en su lengua materna.
 
-!!! caja ""
-    ## Sabiduría (SAB)
+## Sabiduría (SAB)
 Fuerza de voluntad, sentido común, percepción e intuición.
 
 ▶ Salvaciones mágicas: Se aplica a las salvaciones contra efectos mágicos (ver pág. 25).
 
 Esto no suele incluir salvaciones contra ataques de aliento, pero puede aplicarse a cualquier tirada de salvación de otro tipo.
 
-!!! caja ""
-    ## Carisma (CAR)
+## Carisma (CAR)
 Personalidad, persuasión, atractivo físico y capacidad de liderazgo.
 
 ▶ Reacción de PNJ: Se aplica a la hora de reclutar sirvientes y al interactuar con monstruos.
@@ -55,8 +49,7 @@ Personalidad, persuasión, atractivo físico y capacidad de liderazgo.
 ▶ Máximo número de sirvientes: Determina el número de sirvientes que puede tener un personaje.
 ▶ Lealtad del sirviente: Determina la lealtad del sirviente hacia el personaje.
 
-!!! caja ""
-    ## Requisito principal
+## Requisito principal
 Cada clase de personaje tiene uno o más requisitos principales: características esenciales para esa clase. El valor de un requisito principal afecta a la velocidad en que un personaje obtiene puntos de Experiencia.
 
 Los personajes con un único requisito principal usan la tabla a la derecha. Los modificadores para clases con múltiples requisitos principales se encuentran en la descripción de cada clase.
