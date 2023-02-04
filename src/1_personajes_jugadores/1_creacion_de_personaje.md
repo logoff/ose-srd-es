@@ -32,10 +32,10 @@ Ahora que has calculado las características de tu personaje, toma nota de cualq
 La tabla de progresión de niveles para la clase de tu personaje muestra también su valor de GAC0. Esto indica la posibilidad de golpear a tus oponentes en combate, según lo determinado por la Matriz de ataque por GAC0 (pág. 44).
 Para una consulta rápida, resulta conveniente buscar los valores en la fila de la matriz de ataque correspondiente a tu GAC0 y apuntarlos en tu ficha de personaje. Los personajes de nivel 1 tienen un GAC0 de 19 [0], lo que tiene como resultado los siguientes valores.
 
-|Valores de ataque de PJ nv 1                    | | | | | | | | | | |
-|------------------|----|----|----|----|----|----|----|----|----|----|
-| Tirada de ataque | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| Impacto CA       | 9  | 8  | 7  | 6  | 5  | 4  | 3  | 2  | 1  | 0  |
+| Valores de ataque de PJ nv 1 |     |     |     |     |     |     |     |     |     |     |
+| ---------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Tirada de ataque**         | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
+| **Impacto CA**               | 9   | 8   | 7   | 6   | 5   | 4   | 3   | 2   | 1   | 0   |
 
 ## 6. Apunta las tiradas de salvación y las habilidades de clase
 Apunta cualquier habilidad especial que posea la clase de tu personaje, así como sus tiradas de salvación. Si tu personaje tiene un grimorio, pregunta al Árbitro qué hechizos contiene. El Árbitro puede permitirte elegir esos hechizos.

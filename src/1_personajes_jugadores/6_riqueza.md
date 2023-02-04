@@ -4,14 +4,14 @@ tags:
     - reglas-basicas
 ---
 
-| Tasa de conversión de monedas         | | | | | |
-|-------------|------|------|------|------|-------|
-|             | 1 mp | 1 mo | 1 me | 1 ml | 1 mc  |
-| Valor en mp | 1    | 1/5  | 1/10 | 1/50 | 1/500 |
-| Valor en mo | 5    | 1    | 1/2  | 1/10 | 1/100 |
-| Valor en me | 10   | 2    | 1    | 1/5  | 1/50  |
-| Valor en ml | 50   | 10   | 5    | 1    | 1/10  |
-| Valor en mc | 500  | 100  | 50   | 10   | 1     |
+| Tasa de conversión de monedas |      |      |      |      |       |
+| :---------------------------- | ---- | ---- | ---- | ---- | ----- |
+|                               | 1 mp | 1 mo | 1 me | 1 ml | 1 mc  |
+| **Valor en mp**               | 1    | 1/5  | 1/10 | 1/50 | 1/500 |
+| **Valor en mo**               | 5    | 1    | 1/2  | 1/10 | 1/100 |
+| **Valor en me**               | 10   | 2    | 1    | 1/5  | 1/50  |
+| **Valor en ml**               | 50   | 10   | 5    | 1    | 1/10  |
+| **Valor en mc**               | 500  | 100  | 50   | 10   | 1     |
 
 Los personajes más exitosos acumulan riquezas con el botín de sus aventuras. La forma más común (¡y útil!) de un tesoro es el dinero.
 
