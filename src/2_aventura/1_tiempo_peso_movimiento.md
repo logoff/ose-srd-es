@@ -36,11 +36,9 @@ Manteniéndose fiel a sus orígenes, este juego usa el sistema de medida imperia
 !!! caja ""
     ## Conversiones de distancias
     
-    ▶ 1 pie = 12 pulgadas
-    
-    ▶ 1 yarda = 3 pies
-    
-    ▶ 1 milla = 1 760 yardas = 5 280 pies
+    - 1 pie = 12 pulgadas
+    - 1 yarda = 3 pies
+    - 1 milla = 1 760 yardas = 5 280 pies
 
 ### Peso: monedas
 Las medidas de peso suelen tenerse en cuenta a la hora de calcular cuánto peso pueden llevar los personajes (ver Carga, a continuación). Como las monedas son la forma más común de tesoro que se pueden encontrar los aventureros, todos los pesos del juego se miden en monedas (diez monedas equivalen a una libra).

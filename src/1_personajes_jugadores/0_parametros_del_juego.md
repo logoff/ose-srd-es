@@ -54,12 +54,9 @@ Finalmente, cada clase incluye un conjunto de habilidades que el personaje puede
 
     Algunos grupos de jugadores están más familiarizados con un sistema de Clase de Armadura donde los valores más altos son mejores. Este sistema se conoce como Clase de Armadura Ascendente(CAA), y funciona de la siguiente manera:
 
-    ▶ **Clase de Armadura**: Al usar CAA, un valor alto es siempre mejor. Las bonificaciones a la Clase de Armadura aumentan el valor de CAA, mientras que las penalizaciones lo disminuyen.
-
-    ▶ **Tiradas de ataque**: En lugar de recurrir a una matriz de ataque (ver Matriz de ataque por GAC0, pág. 44), las tiradas de ataque implican el uso de una bonificación al ataque que se añade a la tirada de ataque del d20 (ver Combate, pág. 40).
-
-    ▶ **Valores de CAA**: Los valores de CA para equipo y monstruos están seguidos por su equivalente en CAA entre corchetes.
-
-    ▶ **Bonificadores de ataque**: Los valores de GAC0 para monstruos y clases están seguidos por su bonificación de ataque equivalente entre corchetes.
+    - **Clase de Armadura**: Al usar CAA, un valor alto es siempre mejor. Las bonificaciones a la Clase de Armadura aumentan el valor de CAA, mientras que las penalizaciones lo disminuyen.
+    - **Tiradas de ataque**: En lugar de recurrir a una matriz de ataque (ver Matriz de ataque por GAC0, pág. 44), las tiradas de ataque implican el uso de una bonificación al ataque que se añade a la tirada de ataque del d20 (ver Combate, pág. 40).
+    - **Valores de CAA**: Los valores de CA para equipo y monstruos están seguidos por su equivalente en CAA entre corchetes.
+    - **Bonificadores de ataque**: Los valores de GAC0 para monstruos y clases están seguidos por su bonificación de ataque equivalente entre corchetes.
     
     **Nota**: El uso de Clase de Armadura Ascendente da como resultado probabilidades de ataque ligeramente diferentes a cuando se usa el método tradicional de CA descendente con una matriz de ataque.

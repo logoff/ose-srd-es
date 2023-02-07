@@ -35,11 +35,9 @@ Cada bando que no tiene constancia de la presencia del otro tira 1d6.
 ### Distancia de encuentro
 La situación en la que ocurre el encuentro suele determinar la distancia a la que se encuentra el monstruo. Si no está seguro, el Árbitro puede determinar la distancia de manera aleatoria:
 
- ▶ **Mazmorras**: 2d6 x 10 pies.
- 
- ▶ **Territorios salvajes**: 4d6 x 10 yardas (o 1d4 x 10 yardas si alguno de los bandos es sorprendido).
- 
- ▶ **Entorno acuático**: 4d6 x 10 yardas (o 1d4 x 10 yardas si alguno de los bandos es sorprendido).
+ -  **Mazmorras**: 2d6 x 10 pies.
+ -  **Territorios salvajes**: 4d6 x 10 yardas (o 1d4 x 10 yardas si alguno de los bandos es sorprendido).
+ -  **Entorno acuático**: 4d6 x 10 yardas (o 1d4 x 10 yardas si alguno de los bandos es sorprendido).
  
 ### Iniciativa
 (Ver Combate, pág. 40 para todos los detalles).
@@ -72,11 +70,9 @@ El Árbitro determina cómo reacciona el monstruo ante el grupo. En algunas circ
 ### Acciones comunes
 Cualquier acción es posible durante un encuentro, pero estas son las más comunes:
 
-▶ **Combate**: Si uno de los bandos ataca, lanza un hechizo o realiza cualquier movimiento táctico, comienza a registrar el tiempo en rondas, siguiendo el proceso de combate (pág. 40).
-
-▶ **Huir**: Si uno de los bandos intenta huir, su enemigo puede intentar perseguirlos (ver Huida).
-
-▶ **Dialogar**: Los PJ pueden intentar comunicarse con los monstruos. Iniciar un encuentro de esta manera puede influir en el comportamiento del monstruo (ver Acciones del monstruo). Si ambos bandos deciden dialogar, se puede interpretar la negociación.
+-  **Combate**: Si uno de los bandos ataca, lanza un hechizo o realiza cualquier movimiento táctico, comienza a registrar el tiempo en rondas, siguiendo el proceso de combate (pág. 40).
+-  **Huir**: Si uno de los bandos intenta huir, su enemigo puede intentar perseguirlos (ver Huida).
+-  **Dialogar**: Los PJ pueden intentar comunicarse con los monstruos. Iniciar un encuentro de esta manera puede influir en el comportamiento del monstruo (ver Acciones del monstruo). Si ambos bandos deciden dialogar, se puede interpretar la negociación.
 
 ### Movimiento
 **Movimiento del encuentro**: Durante un encuentro, en cada ronda los personajes pueden moverse hasta un tercio de su movimiento básico en pies (en una mazmorra) o en yardas (en territorio salvaje). Por ejemplo, un personaje con un movimiento de 120’ puede moverse 40’ cada ronda durante un encuentro en una mazmorra.

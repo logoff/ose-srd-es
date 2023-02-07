@@ -25,9 +25,8 @@ Si un personaje muere a causa de un hechizo destructor o un ataque especial (por
 ### Destrucción de objetos mágicos
 Los objetos mágicos en posesión de un personaje que muere a causa de un hechizo destructor o un ataque especial tienen la oportunidad de sobrevivir:
 
-▶ **Salvación**: Realiza una tirada de salvación por cada objeto, usando los valores de tirada de salvación del personaje.
-
-▶ **Bonificaciones**: Los objetos que otorgan una bonificación en combate (por ejemplo, armas o armaduras mágicas) pueden aplicar su bonificación a la tirada de salvación.
+-  **Salvación**: Realiza una tirada de salvación por cada objeto, usando los valores de tirada de salvación del personaje.
+-  **Bonificaciones**: Los objetos que otorgan una bonificación en combate (por ejemplo, armas o armaduras mágicas) pueden aplicar su bonificación a la tirada de salvación.
 
 ### Sanación
 **Natural**: Por cada día de descanso completo, un personaje o monstruo recupera 1d3 puntos de golpe. Esta sanación no se completa si el descanso se ve interrumpido.
@@ -40,15 +39,11 @@ Todos los personajes y monstruos pueden hacer tiradas de salvación para evitar 
 ### Categorías
 Existen cinco tipos de salvación, según la situación:
 
-▶ **Muerte o veneno**: Al ser atacado por un rayo mortal o expuesto a un veneno.
-
-▶ **Varitas**: Al ser atacado con una varita mágica.
-
-▶ **Parálisis o petrificación**: Al ser atacado por un efecto paralizante o que convierta en piedra.
-
-▶ **Ataque de aliento**: Al recibir un ataque de aliento de un dragón (o cualquier monstruo con un ataque de aliento).
-
-▶ **Hechizos, varas o bastones**: Al ser atacado por un hechizo o un ataque de una vara o bastón mágico.
+-  **Muerte o veneno**: Al ser atacado por un rayo mortal o expuesto a un veneno.
+-  **Varitas**: Al ser atacado con una varita mágica.
+-  **Parálisis o petrificación**: Al ser atacado por un efecto paralizante o que convierta en piedra.
+-  **Ataque de aliento**: Al recibir un ataque de aliento de un dragón (o cualquier monstruo con un ataque de aliento).
+-  **Hechizos, varas o bastones**: Al ser atacado por un hechizo o un ataque de una vara o bastón mágico.
 
 ### Cuándo hacer una tirada de salvación
 La descripción de cada hechizo, ataque y escenario indican qué tirada de salvación realizar y cuándo debe hacerse.
@@ -61,9 +56,8 @@ La descripción de cada hechizo, ataque y escenario indican qué tirada de salva
 ### Hacer una tirada de salvación
 Cuando un personaje es objetivo de un hechizo o ataque que requiera una tirada de salvación, el jugador o el Árbitro deben tirar 1d20 y comparar el resultado con su valor en el tipo de tirada de salvación apropiado:
 
-▶ **Mayor o igual**: Un resultado mayor o igual al valor de tirada de salvación es un éxito.
-
-▶ **Menor**: Un resultado menor que el valor de tirada de salvación es un fallo.
+-  **Mayor o igual**: Un resultado mayor o igual al valor de tirada de salvación es un éxito.
+-  **Menor**: Un resultado menor que el valor de tirada de salvación es un fallo.
 
 ### Salvación exitosa
 **Efectos perjudiciales**: Una salvación con éxito contra un efecto que cause daño reduce el daño causado a la mitad.

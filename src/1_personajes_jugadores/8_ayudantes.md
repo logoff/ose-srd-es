@@ -12,9 +12,8 @@ Los ayudantes no acompañan a los personajes en sus aventuras. Los personajes pu
 ## Tipos de ayudantes
 Existen dos tipos de ayudantes:
 
-▶ Mercenarios: Espadas de alquiler que vigilarán y patrullarán en territorios salvajes, pero solo si forman parte de una fuerza mayor.
-
-▶ Especialistas: Individuos contratados con un oficio o conocimiento particular. Este tipo de ayudantes suelen contratarse para realizar tareas específicas.
+- **Mercenarios**: Espadas de alquiler que vigilarán y patrullarán en territorios salvajes, pero solo si forman parte de una fuerza mayor.
+- **Especialistas**: Individuos contratados con un oficio o conocimiento particular. Este tipo de ayudantes suelen contratarse para realizar tareas específicas.
 
 ## Cómo encontrar ayudantes
 Los ayudantes pueden contratarse colocando anuncios en las tabernas locales. La respuesta dependerá de la disponibilidad de ayudantes elegibles en la zona, así como de la oferta realizada.

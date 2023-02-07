@@ -19,11 +19,9 @@ Elige una de las clases disponibles para el género de la partida, teniendo en c
 ## 3. Ajusta las características
 Si lo deseas, puedes aumentar los requisitos principales de tu personaje a cambio de restar a otras características (que no sean requisito principal). Por cada dos puntos que restes a una característica, puedes sumar uno a un requisito principal. Se aplican las siguientes restricciones:
 
-▶ Solo se pueden reducir de esta manera Fuerza, Inteligencia y Sabiduría.
-
-▶ Ninguna característica puede reducirse por debajo de 9.
-
-▶ Algunas clases pueden tener restricciones adicionales.
+- Solo se pueden reducir de esta manera Fuerza, Inteligencia y Sabiduría.
+- Ninguna característica puede reducirse por debajo de 9.
+- Algunas clases pueden tener restricciones adicionales.
 
 ## 4. Apunta los modificadores de características
 Ahora que has calculado las características de tu personaje, toma nota de cualquier bonificación o penalización consultando las tablas de la página 15.
@@ -61,9 +59,8 @@ Cada personaje comienza el juego con 3d6 x 10 piezas de oro (consulta Riqueza, p
 ## 11. Apunta tu Clase de Armadura
 La Clase de Armadura de tu personaje está determinada por dos factores:
 
-▶ Armadura: La armadura usada determina la CA básica de tu personaje. Consulta las listas de equipamiento en el libro de reglas de género empleado.
-
-▶ Destreza: Consulta Características, pág. 14.
+- **Armadura**: La armadura usada determina la CA básica de tu personaje. Consulta las listas de equipamiento en el libro de reglas de género empleado.
+- **Destreza**: Consulta Características, pág. 14.
 
 ### CA sin armadura
 Si tu personaje no tiene armadura, su CA básica es 9 [10].

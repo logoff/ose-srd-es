@@ -8,9 +8,8 @@ tags:
 ### Huida
 Compara los movimientos de ambos bandos:
 
-▶ **El bando que huye es más rápido**: La huida tiene éxito automático a menos que los que huyen se vean forzados a parar.
-
-▶ **El bando que persigue es más rápido**: Se produce una persecución.
+-  **El bando que huye es más rápido**: La huida tiene éxito automático a menos que los que huyen se vean forzados a parar.
+-  **El bando que persigue es más rápido**: Se produce una persecución.
 
 ### Persecución
 **Tiempo**: Se mide en rondas (ver Tiempo, peso, movimiento, pág. 22).
@@ -40,11 +39,9 @@ Compara los movimientos de ambos bandos:
 ### Huida
 La probabilidad de huir es una tirada percentil. Se produce una persecución si esta tirada falla. La sorpresa (ver Encuentros, pág. 34) determina la probabilidad de huida:
 
-▶ **Sin sorpresa**: Si ninguno de los bandos es sorprendido, la posibilidad de huir se determina por el tamaño relativo de ambos grupos. Las posibilidades están a favor del grupo más pequeño, ya que un grupo grande no puede moverse tan rápido ni tan silenciosamente. La tabla en la página siguiente indica las posibilidades de huida y los modificadores que pueden aplicarse.
-
-▶ **Bando sorprendido**: Generalmente no puede huir. El Árbitro puede decidir si las condiciones del entorno otorgan al lado sorprendido una pequeña posibilidad de huir al ser sorprendidos (como en el caso anterior). Por ejemplo, un bosque frondoso puede dar al bando sorprendido una oportunidad de huir del 10%.
-
-▶ **Bando que sorprende**: Si uno de los bandos sorprende al otro, este puede huir automáticamente; el bando sorprendido ni siquiera tendrá constancia del encuentro.
+-  **Sin sorpresa**: Si ninguno de los bandos es sorprendido, la posibilidad de huir se determina por el tamaño relativo de ambos grupos. Las posibilidades están a favor del grupo más pequeño, ya que un grupo grande no puede moverse tan rápido ni tan silenciosamente. La tabla en la página siguiente indica las posibilidades de huida y los modificadores que pueden aplicarse.
+-  **Bando sorprendido**: Generalmente no puede huir. El Árbitro puede decidir si las condiciones del entorno otorgan al lado sorprendido una pequeña posibilidad de huir al ser sorprendidos (como en el caso anterior). Por ejemplo, un bosque frondoso puede dar al bando sorprendido una oportunidad de huir del 10%.
+-  **Bando que sorprende**: Si uno de los bandos sorprende al otro, este puede huir automáticamente; el bando sorprendido ni siquiera tendrá constancia del encuentro.
 
 ### Persecución
 Se sigue el siguiente proceso día a día hasta que la persecución termina:
