@@ -19,6 +19,11 @@
   margin: 0.2em 0 0.2em;
 }
 
+/* use triangles for unordered lists */
+.md-typeset ul {
+  list-style-type: "▶  ";
+}
+
 /* caja admonition to highlight boxes and headings */
 .md-typeset .admonition.caja,
 .md-typeset details.caja {

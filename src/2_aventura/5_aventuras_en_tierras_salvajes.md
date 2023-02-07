@@ -28,13 +28,10 @@ Los espacios abiertos de las tierras salvajes implican que tanto personajes como
 ### Monturas voladoras
 Por norma general, una bestia alada puede llevar jinetes u otras cargas según sus DG:
 
-▶ **Criaturas de 3 DG**: Pueden transportar a una criatura del tamaño de la mitad de un humano adulto.
-
-▶ **Criaturas de 6 DG**: Pueden transportar a un humano adulto.
-
-▶ **Criaturas de 12 DG**: Pueden transportar a una criatura del tamaño de un caballo.
-
-▶ **Criaturas de 24 DG**: Pueden transportar a una criatura del tamaño de un elefante.
+-  **Criaturas de 3 DG**: Pueden transportar a una criatura del tamaño de la mitad de un humano adulto.
+-  **Criaturas de 6 DG**: Pueden transportar a un humano adulto.
+-  **Criaturas de 12 DG**: Pueden transportar a una criatura del tamaño de un caballo.
+-  **Criaturas de 24 DG**: Pueden transportar a una criatura del tamaño de un elefante.
 
 ## Buscar alimento
 Los personajes pueden buscar alimento en árboles y arbustos mientras se mueven (ver Viajes por tierra). El grupo tiene 1 entre 6 probabilidades diarias de encontrar suficiente comida para 1d6 criaturas de tamaño humano.
@@ -45,13 +42,10 @@ La caza es una actividad que ocupa la totalidad de un día: no se podrá viajar 
 ## Desorientarse
 Al comienzo de cada día de viaje, el Árbitro debe realizar una tirada para determinar si el grupo se pierde. La probabilidad de desorientarse depende el terreno:
 
-▶ **Praderas**: 1 entre 6.
-
-▶ **Yermo**, colinas, montañas, bosques: 2 entre 6.
-
-▶ **Desierto**, jungla, pantano: 3 entre 6.
-
-▶ **Efectos**: Ver Desorientarse, pág. 26.
+-  **Praderas**: 1 entre 6.
+-  **Yermo**, colinas, montañas, bosques: 2 entre 6.
+-  **Desierto**, jungla, pantano: 3 entre 6.
+-  **Efectos**: Ver Desorientarse, pág. 26.
 
 ## Viajes por tierra
 **Millas por día**: La cantidad de millas que puede recorrer un personaje en un día se determina dividiendo su movimiento básico entre cinco. Por ejemplo, un personaje con un movimiento de 120’ puede viajar hasta 24 millas en un día.
@@ -59,11 +53,9 @@ Al comienzo de cada día de viaje, el Árbitro debe realizar una tirada para det
 ### Modificadores por terreno
 Algunos tipos de terreno modifican la velocidad de los personajes:
 
-▶ **Yermo, desierto, bosque, colinas**: 33% más lento.
-
-▶ **Jungla, montaña, pantano**: Un 50% más lento.
-
-▶ **Camino en buen estado**: 50% más rápido.
+-  **Yermo, desierto, bosque, colinas**: 33% más lento.
+-  **Jungla, montaña, pantano**: Un 50% más lento.
+-  **Camino en buen estado**: 50% más rápido.
 
 ### Marcha forzada
 Los personajes pueden emprender una marcha forzada si necesitan viajar más lejos en un día.
@@ -92,8 +84,6 @@ En terreno abierto, los personajes pueden ver en un radio de tres millas. Este a
 
 ### Probabilidad por terreno
 
-▶ **Ciudad, praderas, tierras pobladas**: 1 entre 6.
-
-▶ **Cielo, yermo, desierto, bosque, colinas**: 2 entre 6.
-
-▶ **Jungla, montaña, pantano**: 3 entre 6.
+-  **Ciudad, praderas, tierras pobladas**: 1 entre 6.
+-  **Cielo, yermo, desierto, bosque, colinas**: 2 entre 6.
+-  **Jungla, montaña, pantano**: 3 entre 6.

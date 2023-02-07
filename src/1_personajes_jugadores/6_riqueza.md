@@ -27,8 +27,6 @@ Un PJ empieza la partida con 3d6 x 10 monedas de oro.
 ## Herencia
 Ante la posibilidad de la muerte de su personaje, los jugadores pueden crear un testamento para sus personajes, para así dejar sus riquezas a un heredero. El Árbitro puede aplicar las siguientes condiciones:
 
-▶ Impuestos: Se le cobrará un impuesto del 10% del total a cualquier tesoro heredado.
-
-▶ Heredero: El heredero de un personaje deberá ser un nuevo personaje de nivel 1.
-
-▶ Solo una vez: Cada jugador solo podrá usar esta regla una vez.
+- **Impuestos**: Se le cobrará un impuesto del 10% del total a cualquier tesoro heredado.
+- **Heredero**: El heredero de un personaje deberá ser un nuevo personaje de nivel 1.
+- **Solo una vez**: Cada jugador solo podrá usar esta regla una vez.

@@ -66,9 +66,8 @@ Las mazmorras a menudo esconden secretos, como puertas secretas y trampas, que l
 ## Trampas
 Existen dos tipos de trampas:
 
-▶ **Trampas del tesoro**: Pequeñas trampas colocadas en un objeto para evitar que lo manipulen o roben (por ejemplo, una aguja venenosa en un cofre o candado).
-
-▶ **Trampas de habitación**: Grandes trampas diseñadas para afectar a todo aquel que entre en su área (por ejemplo, un foso que se abre en el suelo cuando se pasa por encima).
+-  **Trampas del tesoro**: Pequeñas trampas colocadas en un objeto para evitar que lo manipulen o roben (por ejemplo, una aguja venenosa en un cofre o candado).
+-  **Trampas de habitación**: Grandes trampas diseñadas para afectar a todo aquel que entre en su área (por ejemplo, un foso que se abre en el suelo cuando se pasa por encima).
 
 ### Activar trampas
 Cada trampa se activa como consecuencia de una acción específica (por ejemplo, abrir una puerta o pisar una baldosa).

@@ -34,9 +34,8 @@ Los monstruos acuáticos no suelen ser sorprendidos por un barco. Aunque circuns
 ### Modificadores
 La distancia recorrida en un día puede verse afectada por las corrientes y el temporal:
 
-▶ **Viajar por río**: Las corrientes acuáticas pueden aumentar (viajando río abajo) o reducir (viajando contracorriente) la distancia en un 1d6+6 millas por día.
-
-▶ **Navegar**: La velocidad de una embarcación se ve afectada por el temporal (ver Temporal).
+-  **Viajar por río**: Las corrientes acuáticas pueden aumentar (viajando río abajo) o reducir (viajando contracorriente) la distancia en un 1d6+6 millas por día.
+-  **Navegar**: La velocidad de una embarcación se ve afectada por el temporal (ver Temporal).
 
 ## Visibilidad
 **Tierra firme**: En un día soleado, la tierra firme puede avistarse a 24 millas. Esta distancia puede verse reducida en función de la luz y condiciones meteorológicas.
@@ -68,31 +67,25 @@ La distancia recorrida en un día puede verse afectada por las corrientes y el t
 ## Temporal
 El temporal en el mar afecta la velocidad a la que puede viajar una embarcación. Los vientos extremos pueden hacer que el viaje sea peligroso. El Árbitro debería comprobar el temporal al comienzo de cada día tirando 2d6:
 
-▶ **2**: Sin viento; imposible navegar.
-
-▶ **3-11**: Se puede navegar.
-
-▶ **12**: Tormenta; la velocidad de la embarcación se triplica (ver Tormentas).
+-  **2**: Sin viento; imposible navegar.
+-  **3-11**: Se puede navegar.
+-  **12**: Tormenta; la velocidad de la embarcación se triplica (ver Tormentas).
 
 ### Temporal variable (regla opcional)
 Los grupos que prefieran un sistema de navegación más detallado pueden usar la tabla de temporal variable, que añade detalles adicionales a la tirada de temporal.
 
 ### Vendavales
 **Embarcaciones marítimas**: Tienen un 10% de posibilidades de inundarse.
-
 **Embarcaciones no marítimas**: Tienen un 20% de posibilidades de inundarse.
-
 **Inundarse**: El movimiento de la embarcación se reduce en 1/3 hasta que se repare en un puerto.
 
 ### Tormentas
 **Embarcaciones marítimas**: Los barcos con vela pueden seguir la dirección del viento para evitar cualquier daño, de la siguiente manera:
 
-▶ El barco navega al triple de su velocidad en una dirección determinada al azar (el Árbitro puede tirar 1d6: un resultado de 1 indica la dirección de viaje prevista; 2, un desvío de 60º a la derecha; 3, 120º grados a la derecha, etc.).
-
-▶ Si el barco se encuentra con tierra firme durante este trayecto, hay un 75% de probabilidades de que naufrague contra la costa.
+-  El barco navega al triple de su velocidad en una dirección determinada al azar (el Árbitro puede tirar 1d6: un resultado de 1 indica la dirección de viaje prevista; 2, un desvío de 60º a la derecha; 3, 120º grados a la derecha, etc.).
+-  Si el barco se encuentra con tierra firme durante este trayecto, hay un 75% de probabilidades de que naufrague contra la costa.
 
 **Embarcaciones no marítimas**:
 
-▶ Hay un 80% de probabilidades de que el barco se inunde de agua y se hunda.
-
-▶ Si el barco está relativamente cerca de tierra firme cuando la tormenta le golpea, puede intentar encallar. Si la costa está relativamente libre de peligro (rocas, acantilados, etc.), esta acción tiene éxito automático; de no ser así existen 2 entre 6 probabilidades de encontrar un lugar seguro donde capear la tormenta.
+-  Hay un 80% de probabilidades de que el barco se inunde de agua y se hunda.
+-  Si el barco está relativamente cerca de tierra firme cuando la tormenta le golpea, puede intentar encallar. Si la costa está relativamente libre de peligro (rocas, acantilados, etc.), esta acción tiene éxito automático; de no ser así existen 2 entre 6 probabilidades de encontrar un lugar seguro donde capear la tormenta.
