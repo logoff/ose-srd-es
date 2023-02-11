@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Infravisión
-Todos los monstruos no humanos tienen infra-visión (ver Oscuridad, pág. 26) A menos que se especifique en la descripción del monstruo, esto permite a los monstruos ver en la oscuri-dad hasta 60’.
+Todos los monstruos no humanos tienen infra-visión (ver Oscuridad, pág. 26) A menos que se especifique en la descripción del monstruo, esto permite a los monstruos ver en la oscuridad hasta 60’.
 
 ## Idiomas
 El 20% de los monstruos inteligentes pueden hablar común (ver Idiomas, pág. 16), a menos que se especifique lo contrario en su descripción. Muchos monstruos inteligentes también tienen su propia lengua.
