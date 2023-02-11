@@ -5,6 +5,10 @@
   --md-primary-bg-color:        #000000;
 }
 
+/* font size */
+.md-typeset {
+  font-size: 0.9rem;
+}
 /* h2 headings with greenish format */
 .md-typeset h2 {
   font-weight: bold;
@@ -39,6 +43,13 @@
 /* format for tables */
 .md-typeset table:not([class]) th {
   min-width: 0;
+  padding: 0.3em 0.3em;
+  font-size: 0.9rem;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.3em 0.3em;
+  font-size: 0.9rem;
 }
 
 .md-typeset__table thead {
