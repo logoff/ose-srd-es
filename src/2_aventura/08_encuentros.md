@@ -25,9 +25,9 @@ Cada bando que no tiene constancia de la presencia del otro tira 1d6.
 
 **Personajes**: Un jugador tira por todo el grupo.
 
-**Resultados**: Un resultado de 1 o 2 significa que ese bando es sorprendido.E
+**Resultados**: Un resultado de 1 o 2 significa que ese bando es sorprendido.
 
-### fectos de la sorpresa
+### Efectos de la sorpresa
 **Ambos lados son sorprendidos**: Simplemente hay una confusión momentánea. Ninguno de los bandos tiene ventaja.
 
 **Un lado es sorprendido**: El bando que no es sorprendido gana una ronda de ventaja. El bando sorprendido no puede actuar esa ronda.
