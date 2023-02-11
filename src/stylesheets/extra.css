@@ -33,6 +33,7 @@
 .md-typeset details.caja {
   border-color: #d8edd6;
   background-color: #d8edd6;
+  font-size: 0.9rem;
 }
 
 .md-typeset .admonition.caja > h2, h3, h4 {
