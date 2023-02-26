@@ -31,7 +31,7 @@ Señala las regiones controladas por otras especies inteligentes que existan en 
 **Monstruos**: Los territorios habitados por los monstruos más relevantes también pueden marcarse.
 
 ## 5. Ubica la ciudad inicial
-Localiza una ciudad inicial para los personajes en el mapa, normalmente cerca de un río o una carretera cercana al centro del mapa. La aventura comenzará aquí. En la página siguiente encontrarás pautas para crear esta ciudad inicial.
+Localiza una ciudad inicial para los personajes en el mapa, normalmente cerca de un río o una carretera cercana al centro del mapa. La aventura comenzará aquí. En [[8_como_diseñar_una_ciudad_inicial|Cómo diseñar una ciudad inicial]] encontrarás pautas para crear esta ciudad inicial.
 
 ## 6. Coloca las mazmorras
 Coloca una o más mazmorras en el mapa, en algún lugar cercano a la ciudad.

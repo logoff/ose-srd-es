@@ -8,7 +8,7 @@ tags:
     ## Secuencia del turno
     1. **Monstruos errantes**: El Árbitro realiza los chequeos necesarios.
     2. **Acciones**: El grupo decide qué acción realizar (por ejemplo: moverse, buscar, escuchar, entrar en una habitación).
-    3. **Descripción**: El Árbitro describe lo que sucede. Si se encuentran monstruos, sigue el proceso descrito en Encuentros, pág. 34.
+    3. **Descripción**: El Árbitro describe lo que sucede. Si se encuentran monstruos, sigue el proceso descrito en [[08_encuentros|Encuentros]].
     4. **Fin del turno**: El Árbitro actualiza los registros de tiempo, con especial atención a las fuentes de luz, la duración de los hechizos y la necesidad de descanso del grupo.
 
 ## Puertas
@@ -21,9 +21,9 @@ Las puertas secretas solo se pueden encontrar si un personaje las busca activame
 Las cerraduras pueden abrirse mediante el uso de la magia o si un personaje es experto en abrir cerraduras.
 
 ### Puertas atascadas
-**Forzar**: La posibilidad de abrir una puerta atascada forzándola depende de la Fuerza del personaje (ver Características, pág. 14).
+**Forzar**: La posibilidad de abrir una puerta atascada forzándola depende de la Fuerza del personaje (ver [[3_caracteristicas|Características]]).
 
-**Sorpresa**: Un intento fallido de abrir la puerta elimina cualquier posibilidad de sorpresa que los personajes tuvieran sobre los monstruos al otro lado (ver Encuentros, pág. 34).
+**Sorpresa**: Un intento fallido de abrir la puerta elimina cualquier posibilidad de sorpresa que los personajes tuvieran sobre los monstruos al otro lado (ver [[08_encuentros|Encuentros]]).
 
 ### Puertas que se cierran
 Las puertas abiertas por los aventureros (por cualquier medio) suelen cerrarse una vez las han atravesado, aunque se puede evitar usando puntas de hierro u otros objetos como cuña.

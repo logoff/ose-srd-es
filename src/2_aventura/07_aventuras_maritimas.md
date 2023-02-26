@@ -10,7 +10,7 @@ tags:
     2. **Desorientarse**: El Árbitro determina si el grupo se pierde.
     3. **Clima**: El Árbitro determina el temporal.
     4. **Monstruos errantes**: El Árbitro realiza los chequeos necesarios.
-    5. **Descripción**: El Árbitro describe las regiones por las que viaja el grupo y cualquier lugar interesante que puedan encontrarse, preguntando a los jugadores si desean realizar alguna acción. Si se encuentran monstruos, sigue el proceso descrito en Encuentros, pág. 34.
+    5. **Descripción**: El Árbitro describe las regiones por las que viaja el grupo y cualquier lugar interesante que puedan encontrarse, preguntando a los jugadores si desean realizar alguna acción. Si se encuentran monstruos, sigue el proceso descrito en [[08_encuentros|Encuentros]].
     6. **Final del día**: El Árbitro actualiza los registros de tiempo, con especial atención a los suministros, la duración de los hechizos y la necesidad de descanso de la tripulación.
 
 ## Distancia y medidas
@@ -23,7 +23,7 @@ tags:
 
 **Sin un navegante a bordo**: La probabilidad de perderse es del 100% en mar abierto y de 2 entre 6 si se ve tierra.
 
-**Efectos**: Ver Desorientarse, pág. 26.
+**Efectos**: Ver [[04_peligros_y_desafios#Desorientarse|Desorientarse]].
 
 ## Sorpresa
 Los monstruos acuáticos no suelen ser sorprendidos por un barco. Aunque circunstancias especiales (por ejemplo, niebla espesa) pueden alterarlo.
@@ -60,7 +60,7 @@ La distancia recorrida en un día puede verse afectada por las corrientes y el t
 
 **Probabilidad**: La probabilidad de encontrarse con un monstruo errante es de 2 entre 6 en océanos o ríos, y 3 entre 6 en pantanos.
 
-**Distancia**: Los monstruos errantes se encuentran a 4d6 x 10 yardas de distancia. Si cualquier bando es sorprendido (ver Encuentros, pág. 34), esta distancia se reduce a 1d4 x 10 yardas.
+**Distancia**: Los monstruos errantes se encuentran a 4d6 x 10 yardas de distancia. Si cualquier bando es sorprendido (ver [[08_encuentros|Encuentros]]), esta distancia se reduce a 1d4 x 10 yardas.
 
 **Ubicación**: Los encuentros acuáticos pueden ocurrir tanto en aguas abiertas como en tierra firme, si el grupo atraca en algún momento del día.
 

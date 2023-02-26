@@ -7,7 +7,7 @@ tags:
 Existen dos formas de decidir qué tesoros asignar a los monstruos: de forma aleatoria o que el Árbitro decida.
 
 ## Tesoros aleatorios
-La descripción de cada monstruo señala qué tipo de tesoro está presente en su guarida y cuál lleva siempre consigo. Cada tipo de tesoro (en la siguiente página) enumera la cantidad de monedas u objetos que pueden ser encontrados entre el botín. Por cada objeto en la lista:
+La descripción de cada monstruo señala qué tipo de tesoro está presente en su guarida y cuál lleva siempre consigo. Cada tipo de tesoro (en [[03_tipos_de_tesoro|Tipos de Tesoro]]) enumera la cantidad de monedas u objetos que pueden ser encontrados entre el botín. Por cada objeto en la lista:
 
 1. Si se da un valor porcentual, tira d100 primero para comprobar si el objeto está presente en el tesoro.
 2. Si se da un rango de valores (por ejemplo, 1d6 x 1 000 mc, 6d6 gemas), tira los dados específicos para determinar la cantidad de este artículo presente en el botín.

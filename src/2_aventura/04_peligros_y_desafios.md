@@ -25,7 +25,7 @@ Todos los monstruos no humanoides y muchas de las razas semihumanas poseen un ti
 **Alteración**: La infravisión solo funciona en la oscuridad. Cualquier fuente de luz (normal o mágica) o gran fuente de calor impedirá su uso.
 
 ### Luz y sorpresa
-Los personajes o monstruos que porten una luz en la oscuridad no pueden sorprender a sus oponentes (ver Encuentros, pág. 34), ya que la luz delata su presencia.
+Los personajes o monstruos que porten una luz en la oscuridad no pueden sorprender a sus oponentes (ver [[08_encuentros|Encuentros]]), ya que la luz delata su presencia.
 
 ## Caídas
 Caer desde cierta altura sobre una superficie dura inflige 1d6 de daño por cada 10’ de caída.
@@ -33,7 +33,7 @@ Caer desde cierta altura sobre una superficie dura inflige 1d6 de daño por cada
 ## Desorientarse
 Los personajes pueden seguir los senderos, caminos y otros puntos de referencia sin miedo a perderse. De la misma manera, viajar con un guía fiable evita que el grupo se extravíe. Sin embargo, es fácil perderse cuando se viaja a través de regiones inexploradas.
 
-La posibilidad de perderse depende del tipo de terreno que se esté explorando (ver Aventuras en tierras salvajes, pág. 30 y Aventuras marítimas, pág. 32).
+La posibilidad de perderse depende del tipo de terreno que se esté explorando (ver [[06_aventuras_en_tierras_salvajes|Aventuras en tierras salvajes]] y [[07_aventuras_maritimas|Aventuras marítimas]]).
 
 ### Consecuencias de perderse
 Si el grupo se pierde, el Árbitro deberá decidir la dirección en la que están viajando. Una opción es elegir una dirección que se desvíe ligeramente del objetivo. Por ejemplo, si el grupo pretende ir al sur, pueden estar dirigiéndose al suroeste o al oeste si se pierden.
@@ -58,7 +58,7 @@ Las circunstancias en las que ahogarse supone un riesgo, así como las posibilid
 ## Monstruos errantes
 Además de los monstruos situados específicamente en ciertas áreas de una mazmorra o territorio salvaje, los PJ pueden encontrarse al azar con monstruos durante sus aventuras.
 
-Estos monstruos se conocen como monstruos errantes. Consulta Aventuras en mazmorras, pág. 28; Aventuras en tierras salvajes, pág. 30; y Aventuras marítimas, pág. 32 para más detalles.
+Estos monstruos se conocen como monstruos errantes. Consulta [[05_aventuras_en_mazmorras|Aventuras en mazmorras]]; [[06_aventuras_en_tierras_salvajes|Aventuras en tierras salvajes]] y [[07_aventuras_maritimas|Aventuras marítimas]] para más detalles.
 
 **Frecuencia**: El Árbitro debe realizar tiradas con frecuencia para determinar si aparece un monstruo errante. La frecuencia de las tiradas depende del tipo de área explorada.
 

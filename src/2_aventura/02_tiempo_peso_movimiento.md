@@ -26,9 +26,9 @@ Un grupo de aventureros normalmente querrá permanecer unido. La velocidad de mo
 ### Tiempo: rondas y turnos
 Además de los incrementos de tiempo diarios (minutos, horas, días, etc.), se utilizan las siguientes unidades de especiales durante la partida.
 
-**Turnos**: 10 minutos de tiempo de juego. Hay 6 turnos en una hora. Los turnos se emplean al explorar mazmorras (ver Aventuras en mazmorras, pág. 28).
+**Turnos**: 10 minutos de tiempo de juego. Hay 6 turnos en una hora. Los turnos se emplean al explorar mazmorras (ver [[05_aventuras_en_mazmorras|Aventuras en mazmorras]]).
 
-**Rondas**: 10 segundos de tiempo de juego. Hay 60 rondas en un turno. Las rondas se emplean durante los encuentros, especialmente en combate (ver Encuentros, pág. 34 y Combate, pág. 40).
+**Rondas**: 10 segundos de tiempo de juego. Hay 60 rondas en un turno. Las rondas se emplean durante los encuentros, especialmente en combate (ver [[08_encuentros|Encuentros]] y [[10_combate|Combate]]).
 
 ### Distancia: pulgadas, pies, yardas, millas
 Manteniéndose fiel a sus orígenes, este juego usa el sistema de medida imperial. Las distancias se miden en pulgadas (anotadas con “), pies (anotadas con ‘), yardas y millas.
