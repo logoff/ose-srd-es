@@ -81,12 +81,12 @@ El tesoro normalmente está custodiado por encantamientos, trampas, o monstruos 
 ### Hechizos en un pergamino
 El Árbitro puede elegir los hechizos de un pergamino o determinarlos aleatoriamente. La siguiente tabla puede usarse para seleccionar el nivel de cada hechizo. (La tabla presenta diferentes probabilidades para personajes básicos y avanzados; ver Objetos mágicos básicos y avanzados, pág. 72).
 
-| Nivel de hechizo de pergamino aleatorio |           |                     |                   |
-| --------------------------------------- | --------- | ------------------- | ----------------- |
-| <br>B: d6                               | <br>X: d% | Nivel del<br>Arcano | hechizo<br>Divino |
-| 1-3                                     | 1-25      | 1                   | 1                 |
-| 4-5                                     | 26-50     | 2                   | 2                 |
-| 6                                       | 51-70     | 3                   | 3                 |
-|                                         | 71-85     | 4                   | 4                 |
-|                                         | 86-95     | 5                   | 5                 |
-|                                         | 96-00     | 6                   | 6                 |
+| Nivel de  | hechizo de | pergamino           | aleatorio         |
+| --------- | ---------- | ------------------- | ----------------- |
+| <br>B: d6 | <br>X: d%  | Nivel del<br>Arcano | hechizo<br>Divino |
+| 1-3       | 1-25       | 1                   | 1                 |
+| 4-5       | 26-50      | 2                   | 2                 |
+| 6         | 51-70      | 3                   | 3                 |
+|           | 71-85      | 4                   | 4                 |
+|           | 86-95      | 5                   | 5                 |
+|           | 96-00      | 6                   | 6                 |
