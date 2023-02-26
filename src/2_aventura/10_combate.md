@@ -30,10 +30,10 @@ Los personajes que deseen lanzar un hechizo o moverse cuando están cuerpo a cue
 Los personajes que ataquen con un arma a dos manos (y algunas armas a distancia, según se indique en la descripción del equipo) siempre actúan al final de cada ronda, como si hubieran perdido la iniciativa.
 
 ### Iniciativa individual (regla opcional)
-En lugar de realizar una tirada de iniciativa por bando, puede realizarse una tirada por cada individuo que participe en el combate, modificado por su DES (ver Características, pág. 14). El Árbitro puede aplicar un modificador a la iniciativa de monstruos muy rápidos (o lentos), en vez del modificador por DES.
+En lugar de realizar una tirada de iniciativa por bando, puede realizarse una tirada por cada individuo que participe en el combate, modificado por su DES (ver [[3_caracteristicas|Características]]). El Árbitro puede aplicar un modificador a la iniciativa de monstruos muy rápidos (o lentos), en vez del modificador por DES.
 
 ## Moral de los monstruos (regla opcional)
-Consulta Moral, pág. 43.
+Consulta [[12_moral|Moral]].
 
 ## Movimiento
 ### Fuera del cuerpo a cuerpo
@@ -114,11 +114,11 @@ Algunos grupos prefieren que las diferentes armas causen diferentes cantidades d
     ## Tirada de ataque
     1. **Tira 1d20** 
     2. **Aplica modificadores**: FUE para ataques cuerpo a cuerpo; DES para ataques a distancia y cobertura.
-    3. **Determinar impacto CA**: Consulta el resultado en la matriz de ataque según el GAC0 del atacante (ver pág. 44). Esto indica el índice de CA con el que impacta el ataque.
+    3. **Determinar impacto CA**: Consulta el resultado en la matriz de ataque según el GAC0 del atacante ([[13_tablas_de_combate|Tablas de Combate]]). Esto indica el índice de CA con el que impacta el ataque.
     4. **Resultado**: Si la CA impactada es igual o menor a la CA del oponente, el ataque tiene éxito. El Árbitro tira para calcular el daño.
    
     ## Armadura Ascendente (regla opcional)
-    Si un grupo usa la regla opcional de CA Ascendente (ver pág. 11), entonces deberán referirse a ese proceso de ataque.
+    Si un grupo usa la regla opcional de CA Ascendente (ver [[1_personajes_jugadores/1_parametros_del_juego#ca-ascendente-regla-opcional|CA Ascendente]]), entonces deberán referirse a ese proceso de ataque.
 
     5. **Tira 1d20**
     6. **Aplica modificadores**: FUE para ataques cuerpo a cuerpo; DES para ataques a distancia y cobertura.

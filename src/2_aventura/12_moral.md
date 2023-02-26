@@ -34,7 +34,7 @@ El Árbitro puede aplicar bonificaciones o penalizaciones a la moral (de 2 a +2)
 **Valores de 2 o 12**: Estos ajustes no son aplicables a monstruos con una moral de 2 o 12.
 
 ## Moral de los mercenarios
-Los mercenarios (ver Ayudantes, pág. 18) tienen un sistema de moral idéntico a los monstruos.
+Los mercenarios (ver [[9_ayudantes|Ayudantes]]) tienen un sistema de moral idéntico a los monstruos.
 
 **Moral**: Determinada únicamente por el tipo de tropas (ver a continuación). El CAR del personaje que lo contrate no influye.
 
@@ -51,5 +51,5 @@ Los mercenarios (ver Ayudantes, pág. 18) tienen un sistema de moral idéntico a
 | Fanáticos, berserkers    | +2    |
 
 ## Moral de los sirvientes
-Los sirvientes se alistan para trabajar como aventureros, por lo que no se asustan ante cualquier peligro. Los sirvientes no realizan chequeos de moral durante el combate, pero puede ser necesario realizar un chequeo de lealtad en caso de peligro extremo (ver Sirvientes, pág. 46).
+Los sirvientes se alistan para trabajar como aventureros, por lo que no se asustan ante cualquier peligro. Los sirvientes no realizan chequeos de moral durante el combate, pero puede ser necesario realizar un chequeo de lealtad en caso de peligro extremo (ver [[14_sirvientes|Sirvientes]]).
 

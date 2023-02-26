@@ -7,7 +7,7 @@ tags:
 Los ayudantes son PNJ contratados por un personaje para llevar a cabo ciertos servicios. Los ayudantes disponibles dependen del trasfondo y están descritos en cada libro de reglas de género.
 
 ## Ayudantes y aventuras
-Los ayudantes no acompañan a los personajes en sus aventuras. Los personajes pueden contratar PNJ que les sigan en sus aventuras, pero tienen distintas reglas (ver Sirvientes, pág. 46).
+Los ayudantes no acompañan a los personajes en sus aventuras. Los personajes pueden contratar PNJ que les sigan en sus aventuras, pero tienen distintas reglas (ver [[14_sirvientes|Sirvientes]]).
 
 ## Tipos de ayudantes
 Existen dos tipos de ayudantes:

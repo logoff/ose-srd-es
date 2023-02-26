@@ -4,7 +4,7 @@ tags:
     - reglas-basicas
 ---
 
-Un encuentro comienza cuando los personajes se tropiezan con un monstruo, ya sea porque el Árbitro ha planeado el encuentro en el lugar que están explorando, o porque una tirada aleatoria indica que se produce un encuentro (ver Monstruos errantes, pág. 27).
+Un encuentro comienza cuando los personajes se tropiezan con un monstruo, ya sea porque el Árbitro ha planeado el encuentro en el lugar que están explorando, o porque una tirada aleatoria indica que se produce un encuentro (ver [[04_peligros_y_desafios#Monstruos errantes|Monstruos errantes]]).
 
 !!! caja ""
     ## Secuencia de encuentro
@@ -40,7 +40,7 @@ La situación en la que ocurre el encuentro suele determinar la distancia a la q
  -  **Entorno acuático**: 4d6 x 10 yardas (o 1d4 x 10 yardas si alguno de los bandos es sorprendido).
  
 ### Iniciativa
-(Ver Combate, pág. 40 para todos los detalles).
+(Ver [[10_combate|Combate]] para todos los detalles).
 
 **Tira 1d6**: Para cada bando al inicio del combate.
 
@@ -55,7 +55,7 @@ Los jugadores deciden cómo actuar.
 ### Acciones del monstruo
 El Árbitro determina cómo reacciona el monstruo ante el grupo. En algunas circunstancias será obvio cómo debe hacerlo. De lo contrario, puede tirar en la siguiente tabla para ver cómo reacciona.
 
-**Carisma**: Si un personaje intenta hablar con el monstruo, se usa el modificador de las reacciones del PNJ de ese personaje según su CAR (ver Características, pág. 14) para modificar la tirada de reacción del monstruo.
+**Carisma**: Si un personaje intenta hablar con el monstruo, se usa el modificador de las reacciones del PNJ de ese personaje según su CAR (ver [[3_caracteristicas|Características]]) para modificar la tirada de reacción del monstruo.
 
 | Reacción del monstruo |                             |
 | --------------------- | :-------------------------- |
@@ -70,7 +70,7 @@ El Árbitro determina cómo reacciona el monstruo ante el grupo. En algunas circ
 ### Acciones comunes
 Cualquier acción es posible durante un encuentro, pero estas son las más comunes:
 
--  **Combate**: Si uno de los bandos ataca, lanza un hechizo o realiza cualquier movimiento táctico, comienza a registrar el tiempo en rondas, siguiendo el proceso de combate (pág. 40).
+-  **Combate**: Si uno de los bandos ataca, lanza un hechizo o realiza cualquier movimiento táctico, comienza a registrar el tiempo en rondas, siguiendo el proceso de combate ([[10_combate|Combate]]).
 -  **Huir**: Si uno de los bandos intenta huir, su enemigo puede intentar perseguirlos (ver Huida).
 -  **Dialogar**: Los PJ pueden intentar comunicarse con los monstruos. Iniciar un encuentro de esta manera puede influir en el comportamiento del monstruo (ver Acciones del monstruo). Si ambos bandos deciden dialogar, se puede interpretar la negociación.
 
@@ -88,7 +88,7 @@ Uno de los bandos puede intentar huir si desea evitar el encuentro. Esta acción
 
 **No hay persecución**: Si un bando decide permitir que su enemigo huya, entonces la evasión tiene éxito automáticamente y el encuentro se evita.
 
-**Persecución**: Si un bando decide perseguir, la posibilidad de que la evasión tenga éxito depende del entorno donde ocurre el encuentro (ver Huida y persecución, pág. 36).
+**Persecución**: Si un bando decide perseguir, la posibilidad de que la evasión tenga éxito depende del entorno donde ocurre el encuentro (ver [[09_huida_y_persecucion|Huida y persecución]]).
 
 ## Conclusión
 Se supone que un encuentro toma al menos un turno para completarse, lo que incluye el tiempo para descansar, reagruparse, limpiar las armas, vendar cualquier herida, etc.

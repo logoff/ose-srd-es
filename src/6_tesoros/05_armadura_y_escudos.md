@@ -18,4 +18,4 @@ tags:
 ## Armaduras y escudos encantados
 **Bonificación de CA**: Las armaduras y escudos encantados especifican una bonificación de CA. Por ejemplo, una cota de malla maldita otorga +1 a su CA básica de 4 [15], un punto mejor que la CA 5 [14] de una cota de malla normal.
 
-**Peso**: Al usar la segunda opción de las reglas de carga (ver Carga, pág. 23), la carga de una armadura encantada es un 50% menor que la de una armadura normal.
+**Peso**: Al usar la segunda opción de las reglas de carga (ver [[02_tiempo_peso_movimiento#Carga (regla opcional)|Carga]]), la carga de una armadura encantada es un 50% menor que la de una armadura normal.

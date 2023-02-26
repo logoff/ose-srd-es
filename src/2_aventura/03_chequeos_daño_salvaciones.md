@@ -51,7 +51,7 @@ La descripción de cada hechizo, ataque y escenario indican qué tirada de salva
 ### Tablas de tiradas de salvación
 **Personajes**: Cada clase tiene su propia tabla que muestra los valores de tiradas de salvación por cada nivel.
 
-**Monstruos**: La mayoría de los monstruos usan la tabla de la página 44. La descripción de algunos monstruos puede indicar que usan la tabla de salvación de una clase de personaje específica.
+**Monstruos**: La mayoría de los monstruos usan la tabla de [[13_tablas_de_combate|Tablas de Combate]]. La descripción de algunos monstruos puede indicar que usan la tabla de salvación de una clase de personaje específica.
 
 ### Hacer una tirada de salvación
 Cuando un personaje es objetivo de un hechizo o ataque que requiera una tirada de salvación, el jugador o el Árbitro deben tirar 1d20 y comparar el resultado con su valor en el tipo de tirada de salvación apropiado:

@@ -37,7 +37,7 @@ Un hechizo memorizado puede ser lanzado replicando con precisión los gestos nec
 
 ## Magia arcana
 ### Memorizar hechizos
-Un hechicero arcano memoriza sus hechizos a partir de un grimorio (ver página siguiente) y, por lo tanto, está limitado a elegir entre los hechizos de su grimorio, que debe tener a mano.
+Un hechicero arcano memoriza sus hechizos a partir de un grimorio (ver [[2_grimorios|Grimorios]]) y, por lo tanto, está limitado a elegir entre los hechizos de su grimorio, que debe tener a mano.
 
 ### Hechizos reversibles
 Se debe seleccionar la forma normal o inversa de un hechizo a la hora de memorizarlo. Un hechicero arcano puede memorizar ambas formas del hechizo si es capaz de memorizar más de un hechizo de ese nivel.

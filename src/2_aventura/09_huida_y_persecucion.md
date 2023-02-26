@@ -12,7 +12,7 @@ Compara los movimientos de ambos bandos:
 -  **El bando que persigue es más rápido**: Se produce una persecución.
 
 ### Persecución
-**Tiempo**: Se mide en rondas (ver Tiempo, peso, movimiento, pág. 22).
+**Tiempo**: Se mide en rondas (ver [[02_tiempo_peso_movimiento|Tiempo, peso, movimiento]]).
 
 **Correr**: Se asume que ambos bandos corren a toda velocidad (ver a continuación).
 
@@ -37,7 +37,7 @@ Compara los movimientos de ambos bandos:
 
 ## En territorios salvajes
 ### Huida
-La probabilidad de huir es una tirada percentil. Se produce una persecución si esta tirada falla. La sorpresa (ver Encuentros, pág. 34) determina la probabilidad de huida:
+La probabilidad de huir es una tirada percentil. Se produce una persecución si esta tirada falla. La sorpresa (ver [[08_encuentros|Encuentros]]) determina la probabilidad de huida:
 
 -  **Sin sorpresa**: Si ninguno de los bandos es sorprendido, la posibilidad de huir se determina por el tamaño relativo de ambos grupos. Las posibilidades están a favor del grupo más pequeño, ya que un grupo grande no puede moverse tan rápido ni tan silenciosamente. La tabla en la página siguiente indica las posibilidades de huida y los modificadores que pueden aplicarse.
 -  **Bando sorprendido**: Generalmente no puede huir. El Árbitro puede decidir si las condiciones del entorno otorgan al lado sorprendido una pequeña posibilidad de huir al ser sorprendidos (como en el caso anterior). Por ejemplo, un bosque frondoso puede dar al bando sorprendido una oportunidad de huir del 10%.
@@ -75,9 +75,9 @@ La posibilidad de huir está determinada por la diferencia entre los movimientos
 **Fallo**: Si esta tirada falla, se produce una persecución.
 
 ### Persecución
-**Tiempo**: Se mide en rodas (ver Tiempo, peso, movimiento, pág. 22).
+**Tiempo**: Se mide en rodas (ver [[02_tiempo_peso_movimiento|Tiempo, peso, movimiento]]).
 
-**Distancia inicial**: Ambos bandos comienzan la persecución a una distancia de encuentro normal (ver Aventuras marítimas, pág. 32).
+**Distancia inicial**: Ambos bandos comienzan la persecución a una distancia de encuentro normal (ver [[07_aventuras_maritimas|Aventuras marítimas]]).
 
 **Acercarse**: La distancia entre ambos bandos disminuye cada ronda según la diferencia entre sus movimientos (a un mínimo de 30’ por ronda).
 

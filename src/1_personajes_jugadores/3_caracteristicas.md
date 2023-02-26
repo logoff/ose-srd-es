@@ -10,14 +10,14 @@ El valor de cada característica de un personaje determina si tiene bonificacion
 Músculo y poder físico.
 
 - **Cuerpo a cuerpo**: Se aplica a las tiradas de ataque y de daño en combate cuerpo a cuerpo.
-- **Abrir puertas**: La probabilidad de éxito al intentar abrir una puerta atascada (ver pág. 28).
+- **Abrir puertas**: La probabilidad de éxito al intentar abrir una puerta atascada (ver [[05_aventuras_en_mazmorras#Puertas atascadas|Puertas atascadas]]).
 
 ## Destreza (DES)
 Agilidad, reflejos, velocidad y equilibrio.
 
 - **CA**: Modifica la CA del personaje (una bonificación reduce la CA, una penalización la aumenta).
 - **Proyectil**: Se aplica a las tiradas de ataque (pero no de daño) con armas a distancia.
-- **Iniciativa**: Modifica la tirada de iniciativa de un personaje si se está usando la regla opcional de iniciativa individual (ver Combate, pág. 40).
+- **Iniciativa**: Modifica la tirada de iniciativa de un personaje si se está usando la regla opcional de iniciativa individual (ver [[10_combate|Combate]]).
 
 ## Constitución (CON)
 Salud, resistencia y aguante.
@@ -33,7 +33,7 @@ Aprendizaje, memoria y razonamiento.
 ## Sabiduría (SAB)
 Fuerza de voluntad, sentido común, percepción e intuición.
 
-- **Salvaciones mágicas**: Se aplica a las salvaciones contra efectos mágicos (ver pág. 25).
+- **Salvaciones mágicas**: Se aplica a las salvaciones contra efectos mágicos (ver [[03_chequeos_daño_salvaciones#Tiradas de salvación|Tiradas de salvación]]).
 
 Esto no suele incluir salvaciones contra ataques de aliento, pero puede aplicarse a cualquier tirada de salvación de otro tipo.
 

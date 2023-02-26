@@ -4,7 +4,7 @@ tags:
     - reglas-basicas
 ---
 
-**Tamaño**: El tamaño ideal de un grupo es de entre 6 y 8 personajes: lo suficientemente grande como para afrontar los retos de la aventura, pero no tan grande como para que sea un descontrol. Si no hay PJ suficientes, el grupo puede contratar sirvientes (ver pág. 46).
+**Tamaño**: El tamaño ideal de un grupo es de entre 6 y 8 personajes: lo suficientemente grande como para afrontar los retos de la aventura, pero no tan grande como para que sea un descontrol. Si no hay PJ suficientes, el grupo puede contratar sirvientes (ver [[14_sirvientes|Sirvientes]]).
 
 **Clases**: Es prudente que un grupo consista en un conjunto de personajes con diferentes clases. Los personajes orientados al combate son esenciales para proteger al grupo de la mayoría de los peligros, mientras que los personajes con habilidades mágicas resultan útiles a la hora de resolver diferentes situaciones que puedan surgir durante una aventura.
 

@@ -49,7 +49,7 @@ Los monstruos derrotados por los personajes (ya sean asesinados, capturados, ahu
 | 21-21+          | 2 500   | 2 000                            |
 
 ## Reparto de Experiencia
-Los PX obtenidos por recuperar tesoros y derrotar monstruos se dividen a partes iguales entre todos los personajes que hayan sobrevivido a la aventura, incluidos los sirvientes (ver pág. 46).
+Los PX obtenidos por recuperar tesoros y derrotar monstruos se dividen a partes iguales entre todos los personajes que hayan sobrevivido a la aventura, incluidos los sirvientes (ver [[14_sirvientes|Sirvientes]]).
 
 Los PX siempre se dividen a partes iguales, independientemente de cómo hayan decidido dividir el tesoro los jugadores.
 

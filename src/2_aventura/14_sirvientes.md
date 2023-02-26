@@ -4,9 +4,9 @@ tags:
     - reglas-basicas
 ---
 
-Los sirvientes son PNJ que los personajes pueden reclutar para que los acompañen en sus aventuras. (Los PNJ reclutados para otro tipo de servicios se consideran ayudantes, ver pág. 18).
+Los sirvientes son PNJ que los personajes pueden reclutar para que los acompañen en sus aventuras. (Los PNJ reclutados para otro tipo de servicios se consideran ayudantes, ver [[9_ayudantes|Ayudantes]]).
 
-**Límite por PJ**: Cada personaje solo puede reclutar un número limitado de sirvientes según su nivel de Carisma (ver Características, pág. 14).
+**Límite por PJ**: Cada personaje solo puede reclutar un número limitado de sirvientes según su nivel de Carisma (ver [[3_caracteristicas|Características]]).
 
 **Tareas**: Los sirvientes no son esclavos y, aunque normalmente correrán los mismos riesgos que el resto del grupo, no actuarán voluntariamente como carne de cañón. Si sufren cualquier tipo de abuso, los sirvientes advertirán a otros de este trato y los PJ acabarán teniendo dificultades para contratar nuevos sirvientes.
 
@@ -37,7 +37,7 @@ El PJ contratante también deberá hacerse cargo del mantenimiento diario del si
 ### Reacción del solicitante
 Una vez hecha la oferta al potencial sirviente, el Árbitro determina la reacción de este tirando 2d6 y consultando la siguiente tabla, considerando los siguientes modificadores:
 
-- **Carisma**: La tirada es modificada por el CAR del personaje contratante (ver Características, pág. 14).
+- **Carisma**: La tirada es modificada por el CAR del personaje contratante (ver [[3_caracteristicas|Características]]).
 - **Generosidad**: El Árbitro puede aplicar una bonificación o penalización, dependiendo de lo atractiva que resulte la oferta (+1 o +2 para ofertas generosas, -1 o -2 en caso contrario).
 - **Reputación**: Puede aplicarse una penalización de 1 o 2 si el PJ tiene una mala reputación.
 
@@ -60,7 +60,7 @@ Aunque los sirvientes son personajes interpretados por el Árbitro, reciben Expe
 **Humanos comunes**: Cuando un humano común (un sirviente de nivel 0 sin clase) recibe PX, deberá decidir una clase de aventurero y seguir ese camino.
 
 ## Lealtad
-Los sirvientes tienen un índice de lealtad, determinado a partir de la CAR del personaje que lo haya contratado (ver Características, pág. 14). Este índice puede verse ajustado a discreción del Árbitro:
+Los sirvientes tienen un índice de lealtad, determinado a partir de la CAR del personaje que lo haya contratado (ver [[3_caracteristicas|Características]]). Este índice puede verse ajustado a discreción del Árbitro:
 
 - **Bonificaciones**: La lealtad de un sirviente puede aumentar si el PJ se ha portado bien con él (por ejemplo, ha compartido con él más tesoro del acordado).
 - **Penalizaciones**: La lealtad de un sirviente pueden disminuir si el PJ es cruel con él o si no cumple su parte del trato.

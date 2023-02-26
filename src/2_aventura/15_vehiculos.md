@@ -17,16 +17,16 @@ La capacidad de un vehículo para resistir daños en combate.
 La velocidad a la que puede moverse un vehículo. Cada vehículo cuenta con un movimiento básico y un movimiento de encuentro (entre paréntesis). El movimiento de encuentro es igual a un tercio del movimiento básico.
 
 ### Capacidad de carga
-La carga máxima que puede transportar un vehículo en monedas (ver Tiempo, peso, movimiento, pág. 22).
+La carga máxima que puede transportar un vehículo en monedas (ver [[02_tiempo_peso_movimiento|Tiempo, peso, movimiento]]).
 
 ### Tripulación requerida
 El número de personas o animales (por ejemplo, marineros, remeros, caballos) necesarios para operar el vehículo.
 
 ### Pasajeros o mercenarios
-Algunos vehículos cuentan con un espacio adicional para transportar pasajeros o mercenarios (de cualquier tipo, ver Ayudantes, pág. 18) además de su tripulación. Si la descripción de un vehículo no menciona este espacio para pasajeros, se supone que solo tiene espacio para la tripulación. El Árbitro puede decidir que el espacio de la bodega de carga podría convertirse en espacio para pasajeros.
+Algunos vehículos cuentan con un espacio adicional para transportar pasajeros o mercenarios (de cualquier tipo, ver [[9_ayudantes|Ayudantes]]) además de su tripulación. Si la descripción de un vehículo no menciona este espacio para pasajeros, se supone que solo tiene espacio para la tripulación. El Árbitro puede decidir que el espacio de la bodega de carga podría convertirse en espacio para pasajeros.
 
 ### Navegabilidad
-Las embarcaciones se dividen en dos categorías, cada una de las cuales se comporta de diferente manera según el temporal (ver Temporal, pág. 33). Las embarcaciones marítimas son adecuadas para su uso en alta mar, lejos de aguas costeras. Las embarcaciones no marítimas están limitadas a su uso en ríos, lagos o aguas costeras.
+Las embarcaciones se dividen en dos categorías, cada una de las cuales se comporta de diferente manera según el temporal (ver [[07_aventuras_maritimas#Temporal|Temporal]]). Las embarcaciones marítimas son adecuadas para su uso en alta mar, lejos de aguas costeras. Las embarcaciones no marítimas están limitadas a su uso en ríos, lagos o aguas costeras.
 
 ### Dañar un vehículo
 Durante el combate, los ataques y el daño pueden dirigirse a los vehículos además de a los personajes y monstruos.

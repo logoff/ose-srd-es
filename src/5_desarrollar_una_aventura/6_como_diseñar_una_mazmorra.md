@@ -70,7 +70,7 @@ El tesoro suele estar custodiado por monstruos o trampas, aunque a veces se pued
 1. **Bloque de piedra**: Causa 1d10 de daño (salvación contra petrificación para evitarlo).
 2. **Gas**: Un gas venenoso llena la habitación (salvación contra veneno o muere).
 3. **Niebla**: Inocua, parece gas venenoso.
-4. **Foso**: Se abre bajo los pies de los personajes, causando daños por caída a cualquiera que se vea atrapado (ver Caídas, pág. 26).
+4. **Foso**: Se abre bajo los pies de los personajes, causando daños por caída a cualquiera que se vea atrapado (ver [[04_peligros_y_desafios#Caídas|Caídas]]).
 5. **Cuchilla de guadaña**: Se balancea desde el techo, atacando para causar 1d8 de daño.
 6. **Tobogán**: Se abre bajo los pies de los personajes, enviándolos a un nivel inferior.
 

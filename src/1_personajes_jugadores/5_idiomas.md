@@ -4,7 +4,7 @@ tags:
     - reglas-basicas
 ---
 
-Los idiomas nativos que puede hablar cada personaje están determinados por su clase, aunque normalmente incluyen la lengua común y el idioma de alineamiento. Los personajes con un alto nivel de INT pueden aprender idiomas adicionales (ver Características, pág. 14).
+Los idiomas nativos que puede hablar cada personaje están determinados por su clase, aunque normalmente incluyen la lengua común y el idioma de alineamiento. Los personajes con un alto nivel de INT pueden aprender idiomas adicionales (ver [[3_caracteristicas|Características]]).
 
 ## La lengua común
 La lengua común (conocida simplemente como común) es un idioma conocido por la mayoría de las especies inteligentes. Todas las razas jugables, así como la mayoría de los monstruos, pueden hablar común.
