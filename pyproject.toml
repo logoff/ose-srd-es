@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "ose-srd-es"
-version = "0.2.1"
+version = "1.0.0"
 description = "Traducción del System Reference Document (SRD) de Old-School Essentials (OSE) al español."
 authors = ["logoff"]
-license = "Open Game License v 1.0a"
+license = "Open Game License v1.0a"
 readme = "README.md"
 
 [tool.poetry.dependencies]
