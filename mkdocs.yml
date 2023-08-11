@@ -29,6 +29,7 @@ plugins:
   - glightbox:
       touchNavigation: true
   - awesome-pages
+  - tags
   - macros
 
 markdown_extensions:

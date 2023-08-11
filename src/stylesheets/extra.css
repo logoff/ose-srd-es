@@ -44,12 +44,12 @@
 /* format for tables */
 .md-typeset table:not([class]) th {
   min-width: 0;
-  padding: 0.3em 0.3em;
+  padding: 0.0em 0.2em;
   font-size: 0.9rem;
 }
 
 .md-typeset table:not([class]) td {
-  padding: 0.3em 0.3em;
+  padding: 0.0em 0.2em;
   font-size: 0.9rem;
 }
 
