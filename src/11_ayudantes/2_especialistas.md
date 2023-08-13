@@ -75,7 +75,7 @@ La tarea de un espía es reunir información sobre una persona o grupo. El espí
 Artesanos entrenados en el arte de forjar metal. Los herreros pueden trabajar junto a un armero para aumentar la tasa de producción. Ver [[#Armero|Armero]].
 
 ## Ingeniero
-Los ingenieros planean y supervisan grandes proyectos de construcción, como las fortalezas (ver Construcción, pág. 42).
+Los ingenieros planean y supervisan grandes proyectos de construcción, como las fortalezas (ver [[1_construccion|Construcción]]).
 
 **Ingenieros necesarios**: Se requiere un ingeniero por cada 100 000 mo que cueste el proyecto.
 
