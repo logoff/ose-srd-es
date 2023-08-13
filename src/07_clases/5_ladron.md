@@ -38,7 +38,7 @@ Un ladrón de nivel 10 o más puede usar pergaminos para lanzar hechizos arcanos
 ## Habilidades de ladrón
 Los ladrones pueden usar las siguientes habilidades (la probabilidad de éxito se encuentra en la siguiente página):
 
-- **Abrir cerraduras (AC)**: Requiere herra ientas de ladrón (ver Equipo, pág. 24). Solo un intento por cerradura. Si la tirada falla, el ladrón no puede volver a intentarlo con la misma cerradura hasta que haya subido de nivel.
+- **Abrir cerraduras (AC)**: Requiere herra ientas de ladrón (ver [[1_equipo_de_aventura|Equipo]]). Solo un intento por cerradura. Si la tirada falla, el ladrón no puede volver a intentarlo con la misma cerradura hasta que haya subido de nivel.
 - **Encontrar o desactivar trampas del tesoro (ET)**: Se debe realizar una tirada para encontrar la trampa y otra para intentar desactivarla. Solo un intento por trampa.
 - **Escalar superficies escarpadas (ES)**: Se debe realizar una tirada por cada 100’ que vayan a escalarse. Si la tirada falla, el ladrón cae a mitad de camino y sufre daños por caída.
 - **Escuchar ruido (ER)**: En un ambiente tranquilo (no en combate), el ladrón puede intentar escuchar tras una puerta u oír los sonidos de algo aproximándose (como un monstruo errante).

@@ -27,7 +27,7 @@ Los clérigos pueden usar cualquier tipo de armadura. Su estricta doctrina les i
 ## Magia divina
 Consulta [[1_hechizos|Magia]] en las Reglas básicas para tener todos los detalles sobre la magia divina.
 
-**Símbolo sagrado**: Cada clérigo debe portar un símbolo sagrado (ver Equipo, pág. 24).
+**Símbolo sagrado**: Cada clérigo debe portar un símbolo sagrado (ver [[1_equipo_de_aventura|Equipo]]).
 
 **Desaprobación de la deidad**: Los clérigos deben ser fieles a los principios de su alineamiento, clero y religión. Si el clérigo cae en desgracia con su deidad, se pueden imponer penalizaciones.
 
