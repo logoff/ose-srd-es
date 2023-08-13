@@ -118,7 +118,7 @@ Algunos grupos prefieren que las diferentes armas causen diferentes cantidades d
     4. **Resultado**: Si la CA impactada es igual o menor a la CA del oponente, el ataque tiene éxito. El Árbitro tira para calcular el daño.
    
     ## Armadura Ascendente (regla opcional)
-    Si un grupo usa la regla opcional de CA Ascendente (ver [[1_personajes_jugadores/1_parametros_del_juego#ca-ascendente-regla-opcional|CA Ascendente]]), entonces deberán referirse a ese proceso de ataque.
+    Si un grupo usa la regla opcional de CA Ascendente (ver [[01_personajes_jugadores/1_parametros_del_juego#ca-ascendente-regla-opcional|CA Ascendente]]), entonces deberán referirse a ese proceso de ataque.
 
     5. **Tira 1d20**
     6. **Aplica modificadores**: FUE para ataques cuerpo a cuerpo; DES para ataques a distancia y cobertura.

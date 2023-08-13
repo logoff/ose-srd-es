@@ -51,6 +51,7 @@
 .md-typeset table:not([class]) td {
   padding: 0.0em 0.2em;
   font-size: 0.9rem;
+  line-height: 1.2;
 }
 
 .md-typeset__table thead {
