@@ -14,7 +14,7 @@ Los mercenarios son contratados por un personaje para realizar un servicio espec
 **En tiempos de guerra**: Todos los salarios se duplican.
 
 ## Mantenimiento
-La paga mensual incluye comida y equipo básico. La mayoría de los mercenarios ya cuentan con armas y armadura cuando son contratados, aunque se les puede dar equipo adicional. Es necesario contar con un armero para reparar las armas y armaduras de los mercenarios (ver Especialistas, pág. 38).
+La paga mensual incluye comida y equipo básico. La mayoría de los mercenarios ya cuentan con armas y armadura cuando son contratados, aunque se les puede dar equipo adicional. Es necesario contar con un armero para reparar las armas y armaduras de los mercenarios (ver [[2_especialistas|Especialistas]]).
 
 | Mercenarios            |          |             |              |                    |                   |            |              |
 | :--------------------- | -------- | ----------- | ------------ | ------------------ | ----------------- | ---------- | ------------ |
