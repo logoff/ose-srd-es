@@ -81,4 +81,10 @@ B/X Essentials: Adventures and Treasures © 2018 Gavin Norman. Author Gavin Norm
 
 Old-School Essentials Core Rules © 2018 Gavin Norman. Author Gavin Norman.
 
+Old-School Essentials Classic Fantasy: Genre Rules © 2018 Gavin Norman. Author Gavin Norman.
+
+Old-School Essentials Juego de Aventuras Retro Reglas básicas © 2021 The Hills Press. Author Gavin Norman.
+
+Old-School Essentials Fantasía Clásica Reglas de Género © 2021 The Hills Press. Author Gavin Norman.
+
 END OF LICENSE
