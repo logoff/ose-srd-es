@@ -14,7 +14,7 @@ mkdocs-roamlinks-plugin = "^0.3.2"
 mkdocs-macros-plugin = "^1.0.4"
 mkdocs-glightbox = "^0.3.4"
 babel = "^2.12.1"
-mkdocs-awesome-pages-plugin = "^2.8.0"
+mkdocs-awesome-pages-plugin = "^2.9.1"
 
 
 [build-system]
