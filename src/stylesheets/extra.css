@@ -27,6 +27,14 @@
 .md-typeset ul {
   list-style-type: "▶  ";
 }
+.md-typeset ul li::marker {
+  font-size: 0.75em;
+}
+
+/* black horizontal lines */
+.md-typeset hr {
+  border-bottom: 0.05rem solid var(--md-default-fg-color);
+}
 
 /* caja admonition to highlight boxes and headings */
 .md-typeset .admonition.caja,

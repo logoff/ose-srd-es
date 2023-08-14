@@ -1,15 +1,16 @@
 nav:
-    - index.md
-    - Personajes jugadores:     01_personajes_jugadores
-    - Saliendo de aventuras:    02_aventura
-    - Magia:                    03_magia
-    - Monstruos:                04_monstruos
-    - Desarrollar una aventura: 05_desarrollar_una_aventura
-    - Tesoros:                  06_tesoros
-    - Clases:                   07_clases
-    - Idiomas y niveles:        08_idiomas_y_niveles
-    - Equipo:                   09_equipo
-    - Vehículos y monturas:     10_vehiculos_y_monturas
-    - Ayudantes:                11_ayudantes
-    - Fortalezas:               12_fortalezas
-    - 99_licencia.md
+  - index.md
+  - Personajes jugadores:     01_personajes_jugadores
+  - Saliendo de aventuras:    02_aventura
+  - Magia:                    03_magia
+  - Monstruos:                04_monstruos
+  - Desarrollar una aventura: 05_desarrollar_una_aventura
+  - Tesoros:                  06_tesoros
+  - Clases:                   07_clases
+  - Idiomas y niveles:        08_idiomas_y_niveles
+  - Equipo:                   09_equipo
+  - Vehículos y monturas:     10_vehiculos_y_monturas
+  - Ayudantes:                11_ayudantes
+  - Fortalezas:               12_fortalezas
+  - Hechizos:                 13_hechizos
+  - 99_licencia.md
