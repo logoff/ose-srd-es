@@ -11,7 +11,7 @@ theme:
   logo: img/ose-logo.ico
   favicon: img/ose-logo.ico
   font:
-    text: Economica
+    text: Crimson Text
   features:
     - navigation.instant
     - navigation.tracking

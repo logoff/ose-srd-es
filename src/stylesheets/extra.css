@@ -9,6 +9,18 @@
 .md-typeset {
   font-size: 0.9rem;
 }
+
+/* bigger maximum width for widescreen displays */
+.md-grid {
+  max-width: 1440px;
+}
+
+/* compact navigation tabs */
+.md-tabs__item {
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+}
+
 /* h2 headings with greenish format */
 .md-typeset h2 {
   font-weight: bold;
@@ -42,6 +54,7 @@
   border-color: #d8edd6;
   background-color: #d8edd6;
   font-size: 0.9rem;
+  line-height: 120%;
 }
 
 .md-typeset .admonition.caja > h2, h3, h4 {
@@ -60,6 +73,7 @@
   padding: 0.0em 0.2em;
   font-size: 0.9rem;
   line-height: 1.2;
+  overflow:hidden;
 }
 
 .md-typeset__table thead {
