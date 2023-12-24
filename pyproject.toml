@@ -8,13 +8,13 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-mkdocs = "^1.5.2"
-mkdocs-material = "^9.1.21"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.5.3"
 mkdocs-roamlinks-plugin = "^0.3.2"
-mkdocs-macros-plugin = "^1.0.4"
-mkdocs-glightbox = "^0.3.4"
-babel = "^2.12.1"
-mkdocs-awesome-pages-plugin = "^2.9.1"
+mkdocs-macros-plugin = "^1.0.5"
+mkdocs-glightbox = "^0.3.6"
+babel = "^2.14.0"
+mkdocs-awesome-pages-plugin = "^2.9.2"
 
 
 [build-system]
