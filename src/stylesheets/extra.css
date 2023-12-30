@@ -43,6 +43,11 @@
   font-size: 0.75em;
 }
 
+.md-typeset ol li::marker {
+  font-size: 1em;
+  font-weight: bold;
+}
+
 /* black horizontal lines */
 .md-typeset hr {
   border-bottom: 0.05rem solid var(--md-default-fg-color);
