@@ -18,7 +18,7 @@ ___
     2. **Huargo**: **Atq** 1 × mordisco (2d4), **MV** 150’ (50’). **CA**, DG, moral y salvaciones como un vampiro.
     3. **Murciélago gigante**: **Atq** 1 × mordisco (1d4), **MV** 30’ (10’) / 180’ (60’) volando. **CA**, DG, moral y salvaciones como un vampiro.
     4. **Forma gaseosa**: **MV** 180’ (60’) volando. Inmune a todas las armas. No puede atacar.
-- **Invocar bestias**: Solo en forma humana. Criaturas de los alrededores: 1d10 × 10 [[rata#Rata común|ratas]], 5d4 [[rata#Rata gigante|ratas gigantes]], 1d10 × 10 [[murcielago#Murciélago común|murciélagos]], 3d6 [[murcielago#Murciélago gigante|murciélagos gigantes]], 3d6 [[lobo#Lobo común|lobos]], o 2d4 [[lobo#Huargo|huargos]].
+- **Invocar bestias**: Solo en forma humana. Criaturas de los alrededores: 1d10 × 10 [[rata#Rata comun|ratas]], 5d4 [[rata#Rata gigante|ratas gigantes]], 1d10 × 10 [[murcielago#Murcielago comun|murciélagos]], 3d6 [[murcielago#Murcielago gigante|murciélagos gigantes]], 3d6 [[lobo#Lobo comun|lobos]], o 2d4 [[lobo#Huargo|huargos]].
 - **Ataúd**: Debe descansar en un ataúd durante el día o pierde 2d6 PG (que solo se regeneran descansando un día completo). No puede descansar en un ataúd bendito. Siempre mantiene varios ataúdes en lugares ocultos.
 - **Vulnerabilidades**:
     1. **Ajo**: Su olor lo repele (tirada de salvación contra veneno o no puede atacar esta ronda).

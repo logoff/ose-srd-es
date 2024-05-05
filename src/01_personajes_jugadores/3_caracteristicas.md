@@ -33,7 +33,7 @@ Aprendizaje, memoria y razonamiento.
 ## Sabiduría (SAB)
 Fuerza de voluntad, sentido común, percepción e intuición.
 
-- **Salvaciones mágicas**: Se aplica a las salvaciones contra efectos mágicos (ver [[03_chequeos_daño_salvaciones#Tiradas de salvación|Tiradas de salvación]]).
+- **Salvaciones mágicas**: Se aplica a las salvaciones contra efectos mágicos (ver [[03_chequeos_daño_salvaciones#Tiradas de salvacion|Tiradas de salvación]]).
 
 Esto no suele incluir salvaciones contra ataques de aliento, pero puede aplicarse a cualquier tirada de salvación de otro tipo.
 
