@@ -10,4 +10,4 @@ ___
 - **Armas**: Hachas o martillos de piedra, garrotes o lanzas.
 - **Líderes**: Dos líderes (un hombre y una mujer) de 6DG viven en cada guarida neandertal. Miden 10’ de altura y pertenecen a una raza relacionada pero distinta.
 - **Animosidad racial**: Atacan a cualquier [[ogro]] a la vista. Odian a los [[goblin|goblins]] y los [[kobold|kobolds]].
-- **Mascotas**: A veces tienen simios como mascotas (ver [[simio_blanco| Simio blanco]]).
+- **Mascotas**: A veces tienen simios como mascotas (ver [[Simio blanco]]).

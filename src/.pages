@@ -1,17 +1,24 @@
 nav:
   - index.md
-  - Personajes jugadores:     01_personajes_jugadores
-  - Saliendo de aventuras:    02_aventura
-  - Magia:                    03_magia
-  - Monstruos:                04_monstruos
-  - Desarrollar una aventura: 05_desarrollar_una_aventura
-  - Tesoros:                  06_tesoros
-  - Clases:                   07_clases
-  - Idiomas y niveles:        08_idiomas_y_niveles
-  - Equipo:                   09_equipo
-  - Vehículos y monturas:     10_vehiculos_y_monturas
-  - Ayudantes:                11_ayudantes
-  - Fortalezas:               12_fortalezas
-  - Hechizos:                 13_hechizos
-  - Bestiario:                14_bestiario
+  - Reglas básicas:
+    - Personajes jugadores:     01_personajes_jugadores
+    - Saliendo de aventuras:    02_aventura
+    - Magia:                    03_magia
+    - Monstruos:                04_monstruos
+    - Desarrollar una aventura: 05_desarrollar_una_aventura
+    - Tesoros:                  06_tesoros
+  - Reglas de género:
+    - Clases:                   07_clases
+    - Idiomas y niveles:        08_idiomas_y_niveles
+    - Equipo:                   09_equipo
+    - Vehículos y monturas:     10_vehiculos_y_monturas
+    - Ayudantes:                11_ayudantes
+    - Fortalezas:               12_fortalezas
+  - Hechizos para clérigos y magos:
+    - Hechizos de clérigo:      13_hechizos_de_clerigo
+    - Hechizos de mago:         14_hechizos_de_mago
+  - Bestiario:
+    - Monstruos:                15_monstruos
+    - Tablas de encuentro:      16_tablas_encuentro
+    - Encuentros con PNJ:       17_encuentros_con_pnj
   - 99_licencia.md

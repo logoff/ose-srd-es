@@ -155,49 +155,49 @@ La tirada indica una clase de personaje o un monstruo:
 | Reencarnación: | Clase                                       |
 | -------------- | :------------------------------------------ |
 | d10            | Reencarnación                               |
-| 1              | Clérigo                                     |
-| 2              | Enano                                       |
-| 3              | Elfo                                        |
-| 4              | Guerrero                                    |
-| 5              | Mediano                                     |
-| 6              | Mago                                        |
-| 7              | Ladrón                                      |
+| 1              | [[1_clerigo|Clérigo]]                       |
+| 2              | [[3_enano|Enano]]                           |
+| 3              | [[2_elfo|Elfo]]                             |
+| 4              | [[4_guerrero|Guerrero]]                     |
+| 5              | [[7_mediano|Mediano]]                       |
+| 6              | [[6_mago|Mago]]                             |
+| 7              | [[5_ladron|Ladrón]]                         |
 | 8              | Monstruo (tira en la tabla de alineamiento) |
 | 9–10           | Misma clase                                 |
 
-| Reencarnación: | Monstruos legales  |     |
-| -------------- | :----------------- | --- |
-| d6             | Reencarnación      | DG  |
-| 1              | Gnomo              | 1   |
-| 2              | Neandertal         | 2   |
-| 3              | Pegaso             | 2   |
-| 4              | Perro intermitente | 4   |
-| 5              | Unicornio          | 4   |
-| 6              | Roc pequeño        | 6   |
+| Reencarnación: | Monstruos legales                     |     |
+| -------------- | :------------------------------------ | --- |
+| d6             | Reencarnación                         | DG  |
+| 1              | [[Gnomo]]                             | 1   |
+| 2              | [[neandertal_cavernicola|Neandertal]] | 2   |
+| 3              | [[Pegaso]]                            | 2   |
+| 4              | [[Perro intermitente]]                | 4   |
+| 5              | [[Unicornio]]                         | 4   |
+| 6              | [[roc#roc-pequeno|Roc pequeño]]       | 6   |
 
-| Reencarnación: | Monstruos neutrales |     |
-| -------------- | :------------------ | --- |
-| d6             | Reencarnación       | DG  |
-| 1              | Pixie o hada        | 1   |
-| 2              | Hombre lagarto      | 2   |
-| 3              | Gran babuino        | 2   |
-| 4              | Simio blanco        | 4   |
-| 5              | Centauro            | 4   |
-| 6              | Hombre-oso          | 6   |
+| Reencarnación: | Monstruos neutrales                  |     |
+| -------------- | :----------------------------------- | --- |
+| d6             | Reencarnación                        | DG  |
+| 1              | [[Pixie]] o [[hada]]                 | 1   |
+| 2              | [[Hombre lagarto]]                   | 2   |
+| 3              | [[Gran babuino]]                     | 2   |
+| 4              | [[Simio blanco]]                     | 4   |
+| 5              | [[Centauro]]                         | 4   |
+| 6              | [[licantropo#hombre-oso|Hombre-oso]] | 6   |
 
-| Reencarnación: | Monstruos caóticos |     |
-| -------------- | :----------------- | --- |
-| d10            | Reencarnación      | DG  |
-| 1              | Goblin             | 1   |
-| 2              | Hobgoblin          | 1   |
-| 3              | Kobold             | 1   |
-| 4              | Orco               | 1   |
-| 5              | Gnoll              | 2   |
-| 6              | Osgo               | 3   |
-| 7              | Hombre-rata        | 3   |
-| 8              | Ogro               | 4   |
-| 9              | Hombre-lobo        | 4   |
-| 10             | Minotauro          | 6   |
+| Reencarnación: | Monstruos caóticos                     |     |
+| -------------- | :------------------------------------- | --- |
+| d10            | Reencarnación                          | DG  |
+| 1              | [[Goblin]]                             | 1   |
+| 2              | [[Hobgoblin]]                          | 1   |
+| 3              | [[Kobold]]                             | 1   |
+| 4              | [[Orco]]                               | 1   |
+| 5              | [[Gnoll]]                              | 2   |
+| 6              | [[Osgo]]                               | 3   |
+| 7              | [[licantropo#hombre-rata|Hombre-rata]] | 3   |
+| 8              | [[Ogro]]                               | 4   |
+| 9              | [[licantropo#hombre-lobo|Hombre-lobo]] | 4   |
+| 10             | [[Minotauro]]                          | 6   |
 
 !!! caja ""
     ### Tablas de reencarnación alternativas

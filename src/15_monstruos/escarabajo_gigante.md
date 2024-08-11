@@ -3,7 +3,7 @@ title: Escarabajo gigante
 tags:
     - fantasia-clasica-bestiario
 ---
-Escarabajo de fuego De 2’ y media de largo. Suelen encontrarse bajo el suelo.
+Escarabajo de fuego de 2’ y media de largo. Suelen encontrarse bajo el suelo.
 ___
 **CA** 4 [15], **DG** 1+2 (6 PG), **Atq** 1 × mordisco (2d4), **GAC0** 18 [+1], **MV** 120’ (40’), **TS** M12 V13 P14 A15 H16 (1), **ML** 7, **AL** Neutral, **PX** 15, **NA** 1d8 (2d6), **TT** -
 ___

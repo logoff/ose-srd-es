@@ -7,7 +7,7 @@ Mamíferos voladores nocturnos que habitan en cuevas o ruinas.
 - **Ecolocalización**: No se ve afectado por efectos que impidan, modifiquen o dependan de la vista. Cegados por silencio mágico.
 
 ### Murciélago gigante
-Murciélagos carnívoros que atacarán a los aventureros si están hambrientos. Uno de cada 20 grupos de murciélagos gigantes son vampíricos (ver [[murcielago#Murciélago vampiro gigante|Murciélago vampiro gigante]]).
+Murciélagos carnívoros que atacarán a los aventureros si están hambrientos. Uno de cada 20 grupos de murciélagos gigantes son vampíricos (ver [[murcielago#Murcielago vampiro gigante|Murciélago vampiro gigante]]).
 ___
 **CA** 6 [13], **DG** 2 (9 PG), **Atq** 1 × mordisco (1d4), **GAC0** 18 [+1], **MV** 30’ (10’) / 180’ (60’) volando, **TS** M12 V13 P14 A15 H16 (1), **ML** 8, **AL** Neutral, **PX** 20, **NA** 1d10 (1d10), **TT** -
 ___

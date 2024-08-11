@@ -79,7 +79,7 @@ El tesoro normalmente está custodiado por encantamientos, trampas, o monstruos 
 **Pergaminos con múltiples hechizos**: Si un pergamino contiene múltiples hechizos, solo el hechizo lanzado desaparece del pergamino.
 
 ### Hechizos en un pergamino
-El Árbitro puede elegir los hechizos de un pergamino o determinarlos aleatoriamente. La siguiente tabla puede usarse para seleccionar el nivel de cada hechizo. (La tabla presenta diferentes probabilidades para personajes básicos y avanzados; ver [[04_objetos_magicos#Objetos mágicos básicos y avanzados|Objetos mágicos básicos y avanzados]]).
+El Árbitro puede elegir los hechizos de un pergamino o determinarlos aleatoriamente. La siguiente tabla puede usarse para seleccionar el nivel de cada hechizo. (La tabla presenta diferentes probabilidades para personajes básicos y avanzados; ver [[04_objetos_magicos#Objetos magicos basicos y avanzados|Objetos mágicos básicos y avanzados]]).
 
 | Nivel de  | hechizo de | pergamino           | aleatorio         |
 | --------- | ---------- | ------------------- | ----------------- |

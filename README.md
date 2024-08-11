@@ -5,7 +5,7 @@ Traducción del System Reference Document (SRD) de Old-School Essentials (OSE) a
 
 ## Requisitos
 
-* [Python](https://www.python.org/) 3.7+
+* [Python](https://www.python.org/) 3.10+
 * [Poetry](https://python-poetry.org/)
 * [GNU Make](https://www.gnu.org/software/make/)
 * [Docker](https://www.docker.com/) (opcional)
