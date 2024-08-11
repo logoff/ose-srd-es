@@ -23,7 +23,7 @@ Tras lanzar este hechizo, un animal común que no tenga naturaleza mágica dupli
 Este hechizo tiene dos usos:
 
 1. **Curar a un sujeto de cualquier enfermedad**: Incluso aquellas de origen mágico.
-2. **Matar lodo verde**: Este monstruo (ver Fantasía clásica: Bestiario) muere de forma instantánea.
+2. **Matar lodo verde**: Este monstruo (ver [[Lodo verde]]) muere de forma instantánea.
 
 ### Reversible: Causar enfermedad
 Inflige una enfermedad terrible e incapacitante a su víctima si se falla una tirada de salvación contra hechizos. La enfermedad tiene los siguientes efectos:

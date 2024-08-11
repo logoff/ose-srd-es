@@ -11,4 +11,4 @@ ___
 - **Grito**: Si es atacada o asustada, grita para avisar a otras. Esto puede atraer monstruos errantes (20% por ronda).
 - **Salto**: Muy asustadiza. Si es atacada, intentará huir saltando hasta 60’. 50% de probabilidades de saltar hacia un enemigo al azar, en cuyo caso el salto se considera un ataque.
 - **Escupitajo**: La langosta escupe a modo de defensa contra un objetivo a 10’. El objetivo se considera que tiene CA 9 [10]. El personaje afectado se ve cubierto en un escupitajo apestoso y es incapaz de actuar durante 1 turno (tirada de salvación contra veneno). Hasta que se limpie el escupitajo, otros personajes a 5’ deben realizar una tirada de salvación contra veneno o caen enfermos.
-- **Inmunidad al veneno**: Inmune al [[moho_amarillo|moho amarillo]] y a la mayoría de los venenos, debido a su hábito de comer hongos.
+- **Inmunidad al veneno**: Inmune al [[Moho amarillo]] y a la mayoría de los venenos, debido a su hábito de comer hongos.

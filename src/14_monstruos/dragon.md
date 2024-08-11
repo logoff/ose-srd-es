@@ -71,7 +71,7 @@ ___
 - **Dormir**: 30%.
 - **Planear**: Salta fuera del agua y puede planear hasta 6 rondas.
 
-### Dragon rojo
+### Dragón rojo
 Habita en colinas y montañas.
 ___
 **CA** -1 [20], **DG** 10\*\* (45 PG), **Atq** [2 × garra (1d8), 1 × mordisco (4d8)] o aliento, **GAC0** 11 [+8], **MV** 90’ (30’) / 240’ (80’) volando, **TS** M6 V7 P8 A8 H10 (10), **ML** 10, **AL** Caótico, **PX** 2 300, **NA** 1d4 (1d4), **TT** MG
@@ -81,7 +81,7 @@ ___
 - **Idiomas y hechizos**: 50%; 3 hechizos de nivel 1, 3 hechizos de nivel 2, 3 hechizos de nivel 3.
 - **Dormir**: 10%.
 
-### Dragon verde
+### Dragón verde
 Habita en junglas y bosques.
 ___
 **CA** 1 [18], **DG** 8\*\* (36 PG), **Atq** [2 × garra (1d6), 1 × mordisco (3d8)] o aliento, **GAC0** 12 [+7], **MV** 90’ (30’) / 240’ (80’) volando, **TS** M8 V9 P10 A10 H12 (8), **ML** 9, **AL** Caótico, **PX** 1 750, **NA** 1d4 (1d4), **TT** MG

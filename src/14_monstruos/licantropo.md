@@ -16,7 +16,7 @@ Cambiaformas con una forma humana y otra animal.
 - **Infección**: Un personaje que pierde más de la mitad de sus puntos de golpe por los ataques naturales de un licántropo (es decir, sus garras o mordiscos) contrae licantropía. Los humanos se convierten en licántropos del mismo tipo (y pasan a ser controlados por el Árbitro); el resto de razas mueren. La enfermedad tiene efecto en 2d12 días, y muestra los primeros síntomas en la mitad de tiempo.
 
 ### Hombre-jabalí
-Semiinteligentes e irascibles. Suelen parecer berserker en su forma humana.
+Semiinteligentes e irascibles. Suelen parecer [[berserker]] en su forma humana.
 ___
 **CA** 4 [15] (9 [10] en forma humana), DG 4+1\* (19 PG), **Atq** 1 × colmillo/mordisco (2d6), **GAC0** 15 [+4], **MV** 150’ (50’), **TS** M10 V11 P12 A13 H14 (4), **ML** 9, **AL** Neutral, **PX** 200, **NA** 1d4 (2d4), **TT** C
 ___

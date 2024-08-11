@@ -20,7 +20,7 @@ Si no se usan las clases de Fantasía clásica: Reglas de género, el Árbitro d
 * **Composición**: 1d6+3 personajes de clase y nivel aleatorios (ver a continuación).
 * **Alineamiento**: Se puede tirar por el alineamiento del grupo completo o de cada personaje por separado.
 * **Montura**: 75% de probabilidad de ir montados si están en exterior.
-* **Objetos mágicos**: Por cada personaje, hay una posibilidad de que el PNJ tenga un objeto mágico de cada subtabla de objeto mágico (ver Objetos mágicos en Reglas básicas). La probabilidad por cada subtabla es de 5% por nivel del PNJ. Las tiradas que den como resultado objetos que no puede usar el PNJ se ignoran (no se repite la tirada).
+* **Objetos mágicos**: Por cada personaje, hay una posibilidad de que el PNJ tenga un objeto mágico de cada subtabla de objeto mágico (ver [[04_objetos_magicos|Objetos mágicos]]). La probabilidad por cada subtabla es de 5% por nivel del PNJ. Las tiradas que den como resultado objetos que no puede usar el PNJ se ignoran (no se repite la tirada).
 
 | Clase    | y nivel de PNJ | aventurero        |               |
 | -------- | :------------- | ----------------- | ------------- |
