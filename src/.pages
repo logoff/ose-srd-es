@@ -13,5 +13,7 @@ nav:
   - Ayudantes:                11_ayudantes
   - Fortalezas:               12_fortalezas
   - Hechizos:                 13_hechizos
-  - Bestiario:                14_bestiario
+  - Monstruos:                14_monstruos
+  - Tablas de encuentro:      15_tablas_encuentro
+  - Encuentros con PNJ:       16_encuentros_con_pnj
   - 99_licencia.md
