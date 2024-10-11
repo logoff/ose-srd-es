@@ -7,7 +7,7 @@ RUN pip install --upgrade pip
 
 # install Poetry
 RUN apt-get update && \
-    apt-get install -y curl
+    apt-get install -y curl gcc
 RUN curl -sSL https://install.python-poetry.org | python -
 ENV PATH=/root/.local/bin:$PATH
 
