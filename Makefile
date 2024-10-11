@@ -12,7 +12,7 @@ clean-site:
 	rm -rf dist/
 
 .PHONY: serve-site
-serve-site:
+serve-site: build-site
 	poetry run mkdocs serve --dev-addr=0.0.0.0:8000
 
 .PHONY: publish-site
