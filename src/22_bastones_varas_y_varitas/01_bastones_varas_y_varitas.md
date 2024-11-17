@@ -1,5 +1,5 @@
 ---
-title: Vastones, varas y varitas
+title: Bastones, varas y varitas
 tags:
     - fantasia-clasica-tesoros
 ---

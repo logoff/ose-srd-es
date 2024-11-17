@@ -1,5 +1,5 @@
 ---
-title: Mergaminos y mapas
+title: Pergaminos y mapas
 tags:
     - fantasia-clasica-tesoros
 ---
