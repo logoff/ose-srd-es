@@ -1,24 +1,34 @@
 nav:
   - index.md
   - Reglas básicas:
-    - Personajes jugadores:     01_personajes_jugadores
-    - Saliendo de aventuras:    02_aventura
-    - Magia:                    03_magia
-    - Monstruos:                04_monstruos
-    - Desarrollar una aventura: 05_desarrollar_una_aventura
-    - Tesoros:                  06_tesoros
+    - Personajes jugadores:       01_personajes_jugadores
+    - Saliendo de aventuras:      02_aventura
+    - Magia:                      03_magia
+    - Monstruos:                  04_monstruos
+    - Desarrollar una aventura:   05_desarrollar_una_aventura
+    - Tesoros:                    06_tesoros
   - Reglas de género:
-    - Clases:                   07_clases
-    - Idiomas y niveles:        08_idiomas_y_niveles
-    - Equipo:                   09_equipo
-    - Vehículos y monturas:     10_vehiculos_y_monturas
-    - Ayudantes:                11_ayudantes
-    - Fortalezas:               12_fortalezas
+    - Clases:                     07_clases
+    - Idiomas y niveles:          08_idiomas_y_niveles
+    - Equipo:                     09_equipo
+    - Vehículos y monturas:       10_vehiculos_y_monturas
+    - Ayudantes:                  11_ayudantes
+    - Fortalezas:                 12_fortalezas
   - Hechizos para clérigos y magos:
-    - Hechizos de clérigo:      13_hechizos_de_clerigo
-    - Hechizos de mago:         14_hechizos_de_mago
+    - Hechizos de clérigo:        13_hechizos_de_clerigo
+    - Hechizos de mago:           14_hechizos_de_mago
   - Bestiario:
-    - Monstruos:                15_monstruos
-    - Tablas de encuentro:      16_tablas_encuentro
-    - Encuentros con PNJ:       17_encuentros_con_pnj
+    - Monstruos:                  15_monstruos
+    - Tablas de encuentro:        16_tablas_encuentro
+    - Encuentros con PNJ:         17_encuentros_con_pnj
+  - Tesoros:
+    - Armaduras y Escudos:        18_armaduras_y_escudos
+    - Objetos misceláneos:        19_objetos_miscelaneos
+    - Pociones:                   20_pociones
+    - Anillos:                    21_anillos
+    - Bastones, varas y varitas:  22_bastones_varas_y_varitas
+    - Pergaminos y mapas:         23_pergaminos_y_mapas
+    - Espadas:                    24_espadas
+    - Armas:                      25_armas
+    - Espadas inteligentes:       26_espadas_inteligentes
   - 99_licencia.md
