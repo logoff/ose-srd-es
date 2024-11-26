@@ -3,6 +3,14 @@
 
 Traducción del System Reference Document (SRD) de Old-School Essentials (OSE) al español.
 
+https://logoff.github.io/ose-srd-es/
+
+## Contribuidores
+
+| <img src="https://avatars.githubusercontent.com/u/23526432" width="100" /> | <img src="https://avatars.githubusercontent.com/u/1023895" width="100" /> |
+| :------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|          [@ThePinkDeveloper](https://github.com/ThePinkDeveloper)          |                   [@logoff](https://github.com/logoff)                    |
+
 ## Requisitos
 
 * [Python](https://www.python.org/) 3.10+
