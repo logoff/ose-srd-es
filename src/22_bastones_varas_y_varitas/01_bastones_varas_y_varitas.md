@@ -4,30 +4,30 @@ tags:
     - fantasia-clasica-tesoros
 ---
 
-| Bastones, | varas y varitas | mágicas                                 |
-| :-------: | :-------------: | :-------------------------------------- |
-| B: d6     | X: d%           | Objetos                                 |
-| 1         | 1-8             | Vara de cancelación                     |
-|           | 9-11            | Bastón de mando                         |
-| 2         | 12-21           | Bastón de sanación                      |
-|           | 22-23           | Bastón de poder                         |
-| 3         | 24-28           | Bastón de serpientes                    |
-|           | 29-31           | Bastón de golpe                         |
-|           | 32-34           | Bastón de marchitamiento                |
-|           | 35              | Bastón de hechicería                    |
-|           | 36-40           | Varita de frío                          |
-| 4         | 41-45           | Varita de detección de enemigos         |
-|           | 46-50           | Varita de miedo                         |
-|           | 51-55           | Varita de bolas de fuego                |
-|           | 56-60           | Varita de ilusión                       |
-|           | 61-65           | Varita de relámpagos                    |
-| 5         | 66-70           | Varita de detección mágica              |
-|           | 71-75           | Varita de detección de metales          |
-|           | 76-80           | Varita de negación                      |
-| 6         | 81-85           | Varita de parálisis                     |
-|           | 86-90           | Varita de polimorfia                    |
-|           | 91-95           | Varita de detección de puertas secretas |
-|           | 96-00           | Varita de detección de trampas          |
+| Bastones, | varas | y varitas mágicas                       |
+| :-------: | :---: | :-------------------------------------- |
+|   B: d6   | X: d% | Objetos                                 |
+|     1     |  1-8  | Vara de cancelación                     |
+|           | 9-11  | Bastón de mando                         |
+|     2     | 12-21 | Bastón de sanación                      |
+|           | 22-23 | Bastón de poder                         |
+|     3     | 24-28 | Bastón de serpientes                    |
+|           | 29-31 | Bastón de golpe                         |
+|           | 32-34 | Bastón de marchitamiento                |
+|           |  35   | Bastón de hechicería                    |
+|           | 36-40 | Varita de frío                          |
+|     4     | 41-45 | Varita de detección de enemigos         |
+|           | 46-50 | Varita de miedo                         |
+|           | 51-55 | Varita de bolas de fuego                |
+|           | 56-60 | Varita de ilusión                       |
+|           | 61-65 | Varita de relámpagos                    |
+|     5     | 66-70 | Varita de detección mágica              |
+|           | 71-75 | Varita de detección de metales          |
+|           | 76-80 | Varita de negación                      |
+|     6     | 81-85 | Varita de parálisis                     |
+|           | 86-90 | Varita de polimorfia                    |
+|           | 91-95 | Varita de detección de puertas secretas |
+|           | 96-00 | Varita de detección de trampas          |
 
 **B:** Personajes básicos (niveles 1-3)  
 **X:** Personajes expertos (nivel 4+)
@@ -64,7 +64,7 @@ Este objeto de gran poder mágico puede usarse como arma en el combate y puede e
 
 ▶ **Parálisis:** Conjura un cono de energía mágica de 60’ de largo y 30’ de ancho en su extremo. Las criaturas atrapadas por el cono quedan paralizadas durante 6 turnos (**tirada de salvación contra hechizos** para evitarlo).
 
-▶ **Hechizos:** Puede lanzar: *atravesar pared*, *bola de fuego* (8d6 de daño), *conjurar elemental* (8 DG), *invisibilidad*, *luz continua*, *relámpago* (8d6 de daño), *telaraña*, *telequinesis* (hasta 2 400 monedas de peso). (***Fantasía clásica: Hechizos para clérigos y magos***).
+▶ **Hechizos:** Puede lanzar: *[[05_mago_nivel_5#atravesar-pared|Atravesar pared]]*, *[[03_mago_nivel_3#bola-de-fuego|Bola de fuego]]* (8d6 de daño), *[[05_mago_nivel_5#conjurar-elemental|Conjurar elemental]]* (8 DG), *[[02_mago_nivel_2#invisibilidad|Invisibilidad]]*, *[[02_mago_nivel_2#luz-continua|Luz continua]]*, *[[03_mago_nivel_3#relampago|Relámpago]]* (8d6 de daño), *[[02_mago_nivel_2#telarana|Telaraña]]*, *[[05_mago_nivel_5#telequinesis|Telequinesis]]* (hasta 2 400 monedas de peso).
 
 ▶ **Torbellino:** Invoca un torbellino de 70’ de alto, 20’ de ancho en la parte superior y 10’ en la base. Dura 3 rondas y se mueve a 120’ (40’) en la dirección que desee el portador. Todas las criaturas en su camino sufren 2d6 de daño. Las criaturas de menos de 2 DG son empujadas por los vientos (tirada de salvación contra muerte).
 
@@ -84,7 +84,7 @@ Otorga el poder de controlar animales, humanos y plantas.
 
 ▶ **Concentración:** El control se rompe si el personaje se mueve o ataca.
 
-▶ **Cuando la concentración termina:** El Árbitro debe hacer una tirada de reacción con -1 (***Reacción del monstruo*** en ***Reglas básicas***) para determinar el comportamiento de los animales.
+▶ **Cuando la concentración termina:** El Árbitro debe hacer una tirada de reacción con -1 ([[08_encuentros#acciones-del-monstruo|Encuentros]]) para determinar el comportamiento de los animales.
 
 ▶ **Frecuencia de uso:** Una vez por turno.
 
@@ -133,8 +133,7 @@ Este objeto de gran poder mágico puede usarse como arma en el combate y puede e
 
 ▶ **Cono de frío:** Conjura un cono de energía congelante de 60’ de largo y 30’ de ancho en su extremo. Las criaturas atrapadas en el cono sufren 8d6 de daño (**tirada de salvación contra hechizos** para reducir el daño a la mitad).
 
-▶ **Hechizos:** Puede lanzar: *bola de fuego* (8d6 de daño), *luz continua*, *relámpago* (8d6 de daño), *telequinesis* (hasta 2 400 monedas
-de peso). (***Fantasía clásica: Hechizos para clérigos y magos***).
+▶ **Hechizos:** Puede lanzar: *[[03_mago_nivel_3#bola-de-fuego|Bola de fuego]]* (8d6 de daño), *[[02_mago_nivel_2#luz-continua|Luz continua]]*, *[[03_mago_nivel_3#relampago|Relámpago]]* (8d6 de daño), *[[05_mago_nivel_5#telequinesis|Telequinesis]]* (hasta 2 400 monedas de peso).
 
 ## Bastón de sanación
 
@@ -150,7 +149,7 @@ Tiene el poder de curar a quien toque.
 
 ## Bastón de serpientes
 
-Un bastón mágico con el poder de contirse en una serpiente.
+Un bastón mágico con el poder de convertirse en una serpiente.
 
 ▶ **Magia divina:** Solo los hechiceros divinos pueden usarlo.
 
@@ -249,11 +248,9 @@ Invoca poderosos rayos eléctricos:
 
 ## Varita de ilusión
 
-Al gastar una carga, el portador puede manifestar una ilusión. Funciona de la misma manera que el hechizo polimorfizarse a sí mismo
-(***Fantasía clásica: Hechizos para clérigos y magos***), excepto:
+Al gastar una carga, el portador puede manifestar una ilusión. Funciona de la misma manera que el hechizo [[04_mago_nivel_4#polimorfizarse-a-si-mismo|Polimorfizarse a sí mismo]], excepto:
 
-▶ **Concentración:** Es necesaria para mantener la ilusión. El portador de la varita puede moverse hasta la mitad de su movimiento normal
-mientras se concentra. La concentración se interrumpe si el portador ataca, lanza un hechizo o es atacado (dañado, afectado por un hechizo, etc.).
+▶ **Concentración:** Es necesaria para mantener la ilusión. El portador de la varita puede moverse hasta la mitad de su movimiento normal mientras se concentra. La concentración se interrumpe si el portador ataca, lanza un hechizo o es atacado (dañado, afectado por un hechizo, etc.).
 
 ## Varita de negación
 
@@ -275,7 +272,7 @@ Conjura un cono de energía mágica que horroriza a aquellos que alcanza.
 
 ## Varita de polimorfia
 
-Al gastar una carga, el portador u otra criatura a 60’ se convierte en otro tipo de criatura a elección del portador. Funciona de la misma manera que los hechizos *polimorfizarse a sí mismo* y *polimorfizar a otro* (***Fantasía clásica: Hechizos para clérigos y magos***).
+Al gastar una carga, el portador u otra criatura a 60’ se convierte en otro tipo de criatura a elección del portador. Funciona de la misma manera que los hechizos *[[04_mago_nivel_4#polimorfizarse-a-si-mismo|Polimorfizarse a sí mismo]]* y *[[04_mago_nivel_4#polimorfizar-a-otro|Polimorfizar a otro]]*.
 
 ▶ **Resistir:** Un sujeto reticente puede realizar una tirada de salvación contra varitas para negar el efecto.
 

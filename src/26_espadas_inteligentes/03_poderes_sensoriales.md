@@ -21,7 +21,7 @@ Cada poder se obtiene con una tirada en la siguiente tabla, vuelve a tirar por c
 | 76-85  | Detectar puertas secretas        |
 | 86-95  | Detectar objetos invisibles      |
 | 96-99  | Tira por un poder extraordinario |
-| 00     | Vuelve a tirar dos veces         |
+|   00   | Vuelve a tirar dos veces         |
 
 ## Detectar arquitectura cambiante
 

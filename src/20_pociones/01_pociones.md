@@ -4,35 +4,35 @@ tags:
     - fantasia-clasica-tesoros
 ---
 
-| Pociones | Mágica &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |                           |
-| :------: | :------------------------------------------------------------------------------------------: | :------------------------ |
-| B: d8    | X: d%                                                                                        | Poción                    |
-|          | 1-3                                                                                          | Clariaudiencia            |
-|          | 4-7                                                                                          | Clarividencia             |
-|          | 8-10                                                                                         | Controlar animal          |
-|          | 11-13                                                                                        | Controlar dragón          |
-|          | 14-16                                                                                        | Controlar gigante         |
-|          | 17-19                                                                                        | Controlar humano          |
-|          | 20-22                                                                                        | Controlar vegetal         |
-|          | 23-25                                                                                        | Controlar no muerto       |
-|          | 26-32                                                                                        | Engaño                    |
-| 1        | 33-35                                                                                        | Disminución               |
-| 2        | 36-39                                                                                        | Leer pensamientos         |
-|          | 40-43                                                                                        | Resistencia al fuego      |
-|          | 44-47                                                                                        | Vuelo                     |
-| 3        | 48-51                                                                                        | Forma gaseosa             |
-|          | 52-55                                                                                        | Fuerza gigantesca         |
-| 4        | 56-59                                                                                        | Crecimiento               |
-| 5        | 60-63                                                                                        | Sanación                  |
-|          | 64-68                                                                                        | Heroísmo                  |
-| 6        | 69-72                                                                                        | Invisibilidad             |
-|          | 73-76                                                                                        | Invulnerabilidad          |
-| 7        | 77-80                                                                                        | Levitación                |
-|          | 81-84                                                                                        | Longevidad                |
-| 8        | 85-86                                                                                        | Veneno                    |
-|          | 87-89                                                                                        | Polimorfizarse a sí mismo |
-|          | 90-97                                                                                        | Velocidad                 |
-|          | 98-00                                                                                        | Tesoro                    |
+| Pociones | mágicas |                           |
+| :------: | :-----: | :------------------------ |
+|  B: d8   |  X: d%  | Poción                    |
+|          |   1-3   | Clariaudiencia            |
+|          |   4-7   | Clarividencia             |
+|          |  8-10   | Controlar animal          |
+|          |  11-13  | Controlar dragón          |
+|          |  14-16  | Controlar gigante         |
+|          |  17-19  | Controlar humano          |
+|          |  20-22  | Controlar vegetal         |
+|          |  23-25  | Controlar no muerto       |
+|          |  26-32  | Engaño                    |
+|    1     |  33-35  | Disminución               |
+|    2     |  36-39  | Leer pensamientos         |
+|          |  40-43  | Resistencia al fuego      |
+|          |  44-47  | Vuelo                     |
+|    3     |  48-51  | Forma gaseosa             |
+|          |  52-55  | Fuerza gigantesca         |
+|    4     |  56-59  | Crecimiento               |
+|    5     |  60-63  | Sanación                  |
+|          |  64-68  | Heroísmo                  |
+|    6     |  69-72  | Invisibilidad             |
+|          |  73-76  | Invulnerabilidad          |
+|    7     |  77-80  | Levitación                |
+|          |  81-84  | Longevidad                |
+|    8     |  85-86  | Veneno                    |
+|          |  87-89  | Polimorfizarse a sí mismo |
+|          |  90-97  | Velocidad                 |
+|          |  98-00  | Tesoro                    |
 
 **B:** Personajes básicos (niveles 1-3)  
 **X:** Personajes expertos (nivel 4+)
@@ -149,7 +149,7 @@ Otorga la fuerza de un gigante de hielo.
 
 ▶ **Lanzar rocas:** El personaje puede lanzar rocas que causan 3d6 de daño, con alcance de 200’.
 
-▶ **No acumulativo:** Los efectos de esta poción no son acumulativos con objetos mágicos que aumentan la fuerza (como el cinturón de *fuerza de gigante*).
+▶ **No acumulativo:** Los efectos de esta poción no son acumulativos con objetos mágicos que aumentan la fuerza (como el [[01_objetos_miscelaneos#Cinturon de fuerza de gigante|Cinturón de fuerza de gigante]]).
 
 ## Poción de heroísmo
 
@@ -171,9 +171,9 @@ Los humanos comunes y personajes no mágicos orientados al combate (como el enan
 
 ## Poción de Invisibilidad
 
-Al beber esta poción, el personaje se vuelve invisible. Funciona de la misma manera que el hechizo invisibilidad (***Fantasía clásica: Hechizos para clérigos y magos***). Se aplica la duración estándar de una poción.
+Al beber esta poción, el personaje se vuelve invisible. Funciona de la misma manera que el hechizo [[02_mago_nivel_2#invisibilidad|Invisibilidad]]. Se aplica la duración estándar de una poción.
 
-▶ *Pequeñas dosis:* Si el Árbitro lo desea, la poción de invisibilidad puede consumirse en seis dosis más pequeñas, cada una con duración reducida.
+▶ **Pequeñas dosis:** Si el Árbitro lo desea, la poción de invisibilidad puede consumirse en seis dosis más pequeñas, cada una con duración reducida.
 
 ## Poción de invulnerabilidad
 
@@ -187,7 +187,7 @@ El personaje queda protegido mágicamente de cualquier daño, obteniendo los sig
 
 ## Poción de leer pensamientos
 
-Otorga el poder de leer la mente. Funciona de la misma manera que el hechizo leer pensamientos (***Fantasía clásica: Hechizos para clérigos y magos***). Se aplica la duración estándar de una poción.
+Otorga el poder de leer la mente. Funciona de la misma manera que el hechizo [[02_mago_nivel_2#leer-pensamientos|Leer pensamientos]]. Se aplica la duración estándar de una poción.
 
 ## Poción de levitación
 
@@ -195,7 +195,7 @@ El personaje gana la habilidad de moverse con libertad por el aire.
 
 ▶ **Vertical:** El personaje se mueve verticalmente a 60’ por ronda.
 
-▶ **Horizontal:** El personaje se puede empujar contra objetos sólidos para mose horizontalmente.
+▶ **Horizontal:** El personaje se puede empujar contra objetos sólidos para moverse horizontalmente.
 
 ▶ **Peso:** Se puede llevar una cantidad normal de peso mientras se levita.
 
@@ -205,8 +205,7 @@ Instantánea y permanentemente hace que el personaje se vuelva 10 años más jov
 
 ## Poción de polimorfizarse a sí mismo
 
-Al beber esta poción, el personaje se transforma en otro ser (de su elección). Funciona de la misma manera que el hechizo polimorfizarse a
-sí mismo (***Fantasía clásica: Hechizos para clérigos y magos***). Se aplica la duración estándar de una poción.
+Al beber esta poción, el personaje se transforma en otro ser (de su elección). Funciona de la misma manera que el hechizo [[04_mago_nivel_4#polimorfizarse-a-si-mismo|Polimorfizarse a sí mismo]]. Se aplica la duración estándar de una poción.
 
 ## Poción de resistencia al fuego
 

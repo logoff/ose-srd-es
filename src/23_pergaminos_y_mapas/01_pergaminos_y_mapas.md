@@ -5,45 +5,45 @@ tags:
 ---
 
 | Pergaminos | y mapas | mágicos                       |
-| :--------: | :-----: | :-----------------------------|
-| B: d8      | X: d%   | Pergamino                     |
-| 1          | 1-15    | 1 hechizos                    |
-| 2          | 16-25   | 2 hechizos                    |
-| 3          | 26-31   | 3 hechizos                    |
-|            | 32-34   | 5 hechizos                    |
-|            | 35      | 7 hechizos                    |
-| 4          | 36-40   | Pergamino maldito             |
-|            | 41-50   | Protección contra elementales |
-| 5          | 51-60   | Protección contra licántropos |
-|            | 61-65   | Protección contra magia       |
-| 6          | 66-75   | Protección contra no muertos  |
-| 7          | 76-78   | Mapa del tesoro: I            |
-|            | 79-80   | Mapa del tesoro: II           |
-|            | 81-82   | Mapa del tesoro: III          |
-|            | 83      | Mapa del tesoro: IV           |
-|            | 84      | Mapa del tesoro: V            |
-|            | 85      | Mapa del tesoro: VI           |
-|            | 86      | Mapa del tesoro: VII          |
-| 8          | 87-90   | Mapa del tesoro: VIII         |
-|            | 91-95   | Mapa del tesoro: IX           |
-|            | 96      | Mapa del tesoro: X            |
-|            | 97-98   | Mapa del tesoro: XI           |
-|            | 99-00   | Mapa del tesoro: XII          |
+| :--------: | :-----: | :---------------------------- |
+|   B: d8    |  X: d%  | Pergamino                     |
+|     1      |  1-15   | 1 hechizos                    |
+|     2      |  16-25  | 2 hechizos                    |
+|     3      |  26-31  | 3 hechizos                    |
+|            |  32-34  | 5 hechizos                    |
+|            |   35    | 7 hechizos                    |
+|     4      |  36-40  | Pergamino maldito             |
+|            |  41-50  | Protección contra elementales |
+|     5      |  51-60  | Protección contra licántropos |
+|            |  61-65  | Protección contra magia       |
+|     6      |  66-75  | Protección contra no muertos  |
+|     7      |  76-78  | Mapa del tesoro: I            |
+|            |  79-80  | Mapa del tesoro: II           |
+|            |  81-82  | Mapa del tesoro: III          |
+|            |   83    | Mapa del tesoro: IV           |
+|            |   84    | Mapa del tesoro: V            |
+|            |   85    | Mapa del tesoro: VI           |
+|            |   86    | Mapa del tesoro: VII          |
+|     8      |  87-90  | Mapa del tesoro: VIII         |
+|            |  91-95  | Mapa del tesoro: IX           |
+|            |   96    | Mapa del tesoro: X            |
+|            |  97-98  | Mapa del tesoro: XI           |
+|            |  99-00  | Mapa del tesoro: XII          |
 
 **B:** Personajes básicos (niveles 1-3)  
 **X:** Personajes expertos (nivel 4+)
 
 ## Mapa del tesoro
 
-***Pergaminos y mapas*** en ***Reglas básicas***.
+[[11_pergaminos_y_mapas#Tesoros|Mapa del tesoro]].
 
 ## Pergamino maldito
 
-***Pergaminos y mapas*** en ***Reglas básicas***.
+[[11_pergaminos_y_mapas#Pergaminos malditos|Pergamino maldito]].
 
 ## Pergamino de hechizos
 
-***Pergaminos y mapas*** en ***Reglas básicas***.
+[[11_pergaminos_y_mapas#Pergaminos de hechizos|Pergamino de hechizos]].
 
 ## Pergamino de protección contra elementales
 

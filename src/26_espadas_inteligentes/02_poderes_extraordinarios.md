@@ -24,7 +24,7 @@ Cada poder se obtiene con una tirada en la siguiente tabla. Los poderes repetido
 | 80-88  | Teletransporte                    |
 | 89-97  | Visión de rayos X                 |
 | 98-99  | Vuelve a tirar dos veces          |
-| 00     | Vuelve a tirar tres veces         |
+|   00   | Vuelve a tirar tres veces         |
 
 ## Clariaudiencia
 
@@ -56,7 +56,7 @@ Si este poder se obtiene más de una vez, el multiplicador de daño aumenta en u
 
 ## Ilusión
 
-El portador puede crear una ilusión. Funciona de la misma manera que el hechizo fuerza fantasmal (***Fantasía clásica: Hechizos para clérigos y magos***).
+El portador puede crear una ilusión. Funciona de la misma manera que el hechizo [[02_mago_nivel_2#fuerza-fantasmal|Fuerza fantasmal]].
 
 ## Leer pensamientos
 
@@ -122,7 +122,7 @@ Permite al personaje leer la mente de otra criatura.
 
 ## Teletransporte
 
-Funciona de la misma manera que el hechizo teletransporte (***Fantasía clásica: Hechizos para clérigos y magos***).
+Funciona de la misma manera que el hechizo [[05_mago_nivel_5#teletransporte|Teletransporte]].
 
 ## Visión de rayos X
 
@@ -134,7 +134,7 @@ Otorga el poder de ver a través de objetos sólidos.
 
 ▶ **Obstrucciones:** El oro y el plomo bloquean los efectos del poder.
 
-▶ **Buscar:** Cuando se usa con el propósito de buscar (***Buscar, en Aventuras en mazmorras, Reglas básicas***), se garantiza que el portador se dará cuenta de cualquier puerta secreta o trampas en el área de 10’ que se está examinando.
+▶ **Buscar:** Cuando se usa con el propósito de [[05_aventuras_en_mazmorras#Buscar|buscar]], se garantiza que el portador se dará cuenta de cualquier puerta secreta o trampas en el área de 10’ que se está examinando.
 
 ▶ **Concentración:** El portador debe concentrarse sin poder moverse.
 

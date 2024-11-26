@@ -4,28 +4,28 @@ tags:
     - fantasia-clasica-tesoros
 ---
 
-| Anillos  | Mágicos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |                            |
-| :------: | :------------------------------------------------------------------------------------------: | :------------------------- |
-| B: d6    | X: d%                                                                                        | Anillo                     |
-| 1        | 1-5                                                                                          | Control animal             |
-|          | 6-10                                                                                         | Control humano             |
-|          | 11-16                                                                                        | Control vegetal            |
-|          | 17-26                                                                                        | Engaño                     |
-|          | 27-29                                                                                        | Invocación djinni          |
-| 2        | 30-39                                                                                        | Resistencia al fuego       |
-| 3        | 40-50                                                                                        | Invisibilidad              |
-|          | 51-55                                                                                        | Protección +1, radio de 5’ |
-| 4        | 56-70                                                                                        | Protección +1              |
-|          | 71-72                                                                                        | Regeneración               |
-|          | 73-74                                                                                        | Almacenamiento de hechizos |
-|          | 75-80                                                                                        | Reflejo mágico             |
-|          | 81-82                                                                                        | Telequinesis               |
-| 5        | 83-88                                                                                        | Caminar sobre el agua      |
-| 6        | 89-94                                                                                        | Debilidad                  |
-|          | 95-96                                                                                        | Deseos, 1-2                |
-|          | 97                                                                                           | Deseos, 1-3                |
-|          | 98                                                                                           | Deseos, 2-4                |
-|          | 99-00                                                                                        | Visión de rayos X          |
+| Anillos | mágicos |                            |
+| :-----: | :-----: | :------------------------- |
+|  B: d6  |  X: d%  | Anillo                     |
+|    1    |   1-5   | Control animal             |
+|         |  6-10   | Control humano             |
+|         |  11-16  | Control vegetal            |
+|         |  17-26  | Engaño                     |
+|         |  27-29  | Invocación djinni          |
+|    2    |  30-39  | Resistencia al fuego       |
+|    3    |  40-50  | Invisibilidad              |
+|         |  51-55  | Protección +1, radio de 5’ |
+|    4    |  56-70  | Protección +1              |
+|         |  71-72  | Regeneración               |
+|         |  73-74  | Almacenamiento de hechizos |
+|         |  75-80  | Reflejo mágico             |
+|         |  81-82  | Telequinesis               |
+|    5    |  83-88  | Caminar sobre el agua      |
+|    6    |  89-94  | Debilidad                  |
+|         |  95-96  | Deseos, 1-2                |
+|         |   97    | Deseos, 1-3                |
+|         |   98    | Deseos, 2-4                |
+|         |  99-00  | Visión de rayos X          |
 
 **B:** Personajes básicos (niveles 1-3)  
 **X:** Personajes expertos (nivel 4+)
@@ -62,7 +62,7 @@ Otorga el poder de controlar las acciones de los animales.
 
 ▶ **Concentración:** El control se rompe si el personaje se mueve o ataca.
 
-▶ **Cuando la concentración termina:** El Árbitro debe hacer una tirada de reacción con -1 (***Encuentros*** en ***Reglas básicas***) para determinar el comportamiento de los animales.
+▶ **Cuando la concentración termina:** El Árbitro debe hacer una tirada de reacción con -1 ([[08_encuentros#acciones-del-monstruo|Encuentros]]) para determinar el comportamiento de los animales.
 
 ▶ **Frecuencia de uso:** Una vez por turno.
 
@@ -100,11 +100,11 @@ Un anillo maldito que debilita a su portador.
 
 ▶ **Quitar:** El anillo no se puede quitar.
 
-▶ **Disipar:** La maldición solo puede eliminarse mediante la magia (extirpar maldición) o, a decsión del Árbitro, realizando una misión especial.
+▶ **Disipar:** La maldición solo puede eliminarse mediante la magia (extirpar maldición) o, a decisión del Árbitro, realizando una misión especial.
 
 ## Anillo de deseos
 
-Concede deseos a su portador (***Deseos***, en ***Objetos mágicos***, ***Reglas básicas***).
+Concede deseos a su portador (***[[04_objetos_magicos#Deseos|Deseos]]***).
 
 ▶ **Cargas:** La cantidad de deseos concedidos está anotada en la tabla de anillos. La magia del anillo se gasta una vez se hayan concedido todos.
 
@@ -127,7 +127,7 @@ El portador se vuelve invisible.
 
 ## Anillo de invocación djinni
 
-Este anillo otorga el poder de invocar a un djinni (***Fantasía clásica: Bestiario***).
+Este anillo otorga el poder de invocar a un [[djinni_menor|djinni]].
 
 ▶ **Duración del servicio:** El djinni servirá al personaje que lo ha invocado durante 24 horas.
 
@@ -198,7 +198,7 @@ Otorga el poder de a través de objetos sólidos.
 
 ▶ **Obstrucciones:** El oro y el plomo bloquean los efectos del anillo.
 
-▶ **Buscar:** Cuando se usa con el propósito de buscar (***Buscar***, en ***Aventuras en mazmorras***, ***Reglas básicas***), garantiza que el portador se dará cuenta de cualquier puerta secreta o trampas en el área de 10’ que se está examinando.
+▶ **Buscar:** Cuando se usa con el propósito de [[05_aventuras_en_mazmorras#Buscar|buscar]] garantiza que el portador se dará cuenta de cualquier puerta secreta o trampas en el área de 10’ que se está examinando.
 
 ▶ **Concentración:** Usar este anillo requiere concentración (el portador no puede moverse).
 

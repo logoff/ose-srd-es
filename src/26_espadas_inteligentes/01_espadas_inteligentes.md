@@ -4,61 +4,61 @@ tags:
     - fantasia-clasica-tesoros
 ---
 
-Si una espada mágica posee conciencia propia (***Espadas, pág. 34***), puedes usar el procedimiento de esta sección para determinar sus poderes. El Árbitro puede elegir sus cualidades como desee.
+Si una espada mágica posee conciencia propia (***[[01_espadas|Espadas]]***), puedes usar el procedimiento de esta sección para determinar sus poderes. El Árbitro puede elegir sus cualidades como desee.
 
 ## Tirada de espada inteligente
 
-**1.** **Propósito especial:** Si la espada tiene un propósito especial, consulta ***Propósito especial (pág. 43)*** para determinarlo.
+**1.** **Propósito especial:** Si la espada tiene un propósito especial, consulta ***[[04_proposito_especial|Propósito especial]]*** para determinarlo.
 
 **2.** **Inteligencia y personalidad:** La espada tiene INT 1d6+6 (las espadas con propósito especial siempre tienen INT 12). La espada cuenta con personalidad propia y debería actuar como un PNJ.
 
 **3.** **Comunicación:** La INT de la espada determina cómo se puede comunicar. Consulta la siguiente tabla.
 
-| Espada   | inteligente: | Comunicación |
-| :------: | :----------: | :------------|
-| INT      | Lectura      | Comunicación |
-| 7        | No           | Empatía      |
-| 8        | No           | Empatía      |
-| 9        | No           | Empatía      |
-| 10       | No           | Habla        |
-| 11       | Sí           | Habla        |
-| 12       | Sí           | Habla        |
+| Espada | inteligente: | Comunicación |
+| :----: | :----------: | :----------: |
+|  INT   |   Lectura    | Comunicación |
+|   7    |      No      |   Empatía    |
+|   8    |      No      |   Empatía    |
+|   9    |      No      |   Empatía    |
+|   10   |      No      |    Habla     |
+|   11   |      Sí      |    Habla     |
+|   12   |      Sí      |    Habla     |
 
   **a.** **Empatía:** La espada no se puede comunicar directamente, pero informa empáticamente al que la empuña de sus poderes y cómo usarlos.
 
   **b.** **Habla:** La espada tiene voz propia. El número de idiomas que conoce se calcula consultando la siguiente tabla. El Árbitro decide qué idiomas habla.
 
-| Espada   | inteligente: Idiomas                 |
-| :------: | :----------------------------------- |
-| 1d100    | Idiomas                              |
-| 01-50    | Lenguaje de alineamiento +1          |
-| 51-70    | Lenguaje de alineamiento 2           |
-| 71-85    | Lenguaje de alineamiento 3           |
-| 86-95    | Lenguaje de alineamiento 4           |
-| 96-99    | Lenguaje de alineamiento 5           |
-| 00       | Tira dos veces y suma los resultados |
+| Espada |         inteligente: Idiomas         |
+| :----: | :----------------------------------: |
+| 1d100  |               Idiomas                |
+| 01-50  |     Lenguaje de alineamiento +1      |
+| 51-70  |      Lenguaje de alineamiento 2      |
+| 71-85  |      Lenguaje de alineamiento 3      |
+| 86-95  |      Lenguaje de alineamiento 4      |
+| 96-99  |      Lenguaje de alineamiento 5      |
+|   00   | Tira dos veces y suma los resultados |
 
   **c.** **Lectura:** La espada puede leer todos los idiomas que hable, así como inscripciones mágicas.
 
 **4.** **Alineamiento:** Consulta la siguiente tabla.
 
-| Espada   | inteligente: Alineamiento |
-| :------: | :------------------------ |
-| 1d20     | Alineamiento              |
-| 01-13    | Legal                     |
-| 14-18    | Neutral                   |
-| 19-20    | Caótico                   |
+| Espada | inteligente: Alineamiento |
+| :----: | :-----------------------: |
+|  1d20  |       Alineamiento        |
+| 01-13  |           Legal           |
+| 14-18  |          Neutral          |
+| 19-20  |          Caótico          |
 
 **5.** **Poderes:** La INT de la espada determina el número de poderes que posee. Consulta la siguiente tabla.
 
-| Espada   | inteligente: Alineamiento                |
-| :------: | :--------------------------------------- |
-| 7        | 1 poder sensorial                        |
-| 8        | 2 poderes sensoriales                    |
-| 9        | 3 poderes sensoriales                    |
-| 10       | 3 poderes sensoriales                    |
-| 11       | 3 poderes sensoriales                    |
-| 12       | 3 poderes sensoriales + 1 extraordinario |
+| Espada |           inteligente: Poderes           |
+| :----: | :--------------------------------------: |
+|   7    |            1 poder sensorial             |
+|   8    |          2 poderes sensoriales           |
+|   9    |          3 poderes sensoriales           |
+|   10   |          3 poderes sensoriales           |
+|   11   |          3 poderes sensoriales           |
+|   12   | 3 poderes sensoriales + 1 extraordinario |
 
 **6.** **Ego:** Todas las espadas inteligentes tienen un nivel de Ego: una forma de medir el poder de su personalidad. Se calcula con 1d12. Las espadas con propósito especial siempre tienen Ego 12.
 

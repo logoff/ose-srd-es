@@ -4,40 +4,40 @@ tags:
     - fantasia-clasica-tesoros
 ---
 
-| Objetos   | mágicos misceláneos |                                           |
-| :-------: | :-----------------: | :---------------------------------------- |
-| B: d10    | X: d%               | Objeto                                    |
-|           | 1-3                 | Amuleto de protección contra adivinación  |
-| 1         | 4-5                 | Saco devorador                            |
-| 2         | 6-11                | Bolsa de contención                       |
-|           | 12-16               | Botas de levitación                       |
-|           | 17-21               | Botas de velocidad                        |
-|           | 22-26               | Botas de zancadas y brincos               |
-| 3         | 27-31               | Escoba voladora                           |
-| 4         | 32-35               | Bola de cristal                           |
-|           | 36-37               | Bola de cristal: clarividencia            |
-|           | 38                  | Bola de cristal: leer pensamientos        |
-|           | 39-40               | Capa de desplazamiento                    |
-|           | 41                  | Tambores del pánico                       |
-|           | 42                  | Botella de efreeti                        |
-|           | 43                  | Artilugio de invocación elemental: aire   |
-|           | 44                  | Artilugio de invocación elemental: tierra |
-|           | 45                  | Artilugio de invocación elemental: fuego  |
-|           | 46                  | Artilugio de invocación elemental: agua   |
-| 5         | 47-56               | Botas y capa élficas                      |
-|           | 57                  | Alfombra voladora                         |
-| 6         | 58-64               | Guanteletes de fuerza de ogro             |
-|           | 65-66               | Cinturón de fuerza de gigante             |
-| 7         | 67-77               | Yelmo de cambio de alineamiento           |
-|           | 78-82               | Yelmo de comprensión                      |
-| 8         | 83                  | Yelmo de telepatía                        |
-|           | 84                  | Yelmo de teletransportación               |
-|           | 85                  | Cuerno Detonante                          |
-| 9         | 86-90               | Medallón: leer pensamientos 30’           |
-|           | 91-93               | Medallón: leer pensamientos 90’           |
-|           | 94                  | Espejo atrapavidas                        |
-| 10        | 95-97               | Cuerda de escalada                        |
-|           | 98-00               | Escarabajo de protección                  |
+| Objetos | mágicos | misceláneos                               |
+| :-----: | :-----: | :---------------------------------------- |
+| B: d10  |  X: d%  | Objeto                                    |
+|         |   1-3   | Amuleto de protección contra adivinación  |
+|    1    |   4-5   | Saco devorador                            |
+|    2    |  6-11   | Bolsa de contención                       |
+|         |  12-16  | Botas de levitación                       |
+|         |  17-21  | Botas de velocidad                        |
+|         |  22-26  | Botas de zancadas y brincos               |
+|    3    |  27-31  | Escoba voladora                           |
+|    4    |  32-35  | Bola de cristal                           |
+|         |  36-37  | Bola de cristal: clarividencia            |
+|         |   38    | Bola de cristal: leer pensamientos        |
+|         |  39-40  | Capa de desplazamiento                    |
+|         |   41    | Tambores del pánico                       |
+|         |   42    | Botella de efreeti                        |
+|         |   43    | Artilugio de invocación elemental: aire   |
+|         |   44    | Artilugio de invocación elemental: tierra |
+|         |   45    | Artilugio de invocación elemental: fuego  |
+|         |   46    | Artilugio de invocación elemental: agua   |
+|    5    |  47-56  | Botas y capa élficas                      |
+|         |   57    | Alfombra voladora                         |
+|    6    |  58-64  | Guanteletes de fuerza de ogro             |
+|         |  65-66  | Cinturón de fuerza de gigante             |
+|    7    |  67-77  | Yelmo de cambio de alineamiento           |
+|         |  78-82  | Yelmo de comprensión                      |
+|    8    |   83    | Yelmo de telepatía                        |
+|         |   84    | Yelmo de teletransportación               |
+|         |   85    | Cuerno Detonante                          |
+|    9    |  86-90  | Medallón: leer pensamientos 30’           |
+|         |  91-93  | Medallón: leer pensamientos 90’           |
+|         |   94    | Espejo atrapavidas                        |
+|   10    |  95-97  | Cuerda de escalada                        |
+|         |  98-00  | Escarabajo de protección                  |
 
 **B:** Personajes básicos (niveles 1-3)  
 **X:** Personajes expertos (nivel 4+)
@@ -58,7 +58,7 @@ Este amuleto impide ser objetivo de la adivinación mágica y de la lectura de m
 
 ▶ **Bolas de cristal:** El personaje que lleva este amuleto no puede ser percibido a través de una bola de cristal.
 
-▶ **Leer pensamientos:** El portados es inmune al hechizo leer pensamientos.
+▶ **Leer pensamientos:** El portador es inmune al hechizo leer pensamientos.
 
 ## Artilugio de invocación elemental
 
@@ -80,9 +80,9 @@ Objetos rituales encantados con el poder de invocar a seres de los planos elemen
 
 ▶ **Activación:** Una vez preparado, se necesita una ronda para activar el artilugio.
 
-▶ **Elemental invocado:** Un elemental de 12 DG (***Fantasía clásica: Bestiario***) es invocado para obedecer las órdenes del lanzador.
+▶ **Elemental invocado:** Un [[elemental]] de 12 DG es invocado para obedecer las órdenes del lanzador.
 
-▶ **Control sobre el elemental:** Funciona de la misma manera que el hechizo conjurar elemental (***Fantasía clásica: Hechizos para clérigos y magos***).
+▶ **Control sobre el elemental:** Funciona de la misma manera que el hechizo [[05_mago_nivel_5#conjurar-elemental|Conjurar elemental]].
 
 ## Bola de cristal
 
@@ -144,13 +144,13 @@ El personaje se puede mover a 240’ (80’).
 
 El portador puede viajar sin cansarse y saltar grandes distancias.
 
-▶ **Incansable:** Puede ignorar la necesidad de descansar durante un viaje (***Aventuras en territorios salvajes*** en ***Reglas básicas***).
+▶ **Incansable:** Puede ignorar la necesidad de descansar durante un viaje ([[06_aventuras_en_tierras_salvajes#Descanso|Aventuras en tierras salvajes]]).
 
 ▶ **Salto:** El portador puede saltar hasta 10’ de altura y 30’ horizontales.
 
 ## Botella de efreeti
 
-Un jarrón de 3’ de alto con un tapón sellado. Romper el sello y quitar el tapón libera a un efreeti (***Fantasía clásica: Bestiario***) al servicio del personaje.
+Un jarrón de 3’ de alto con un tapón sellado. Romper el sello y quitar el tapón libera a un [[efreeti_menor|efreeti]] al servicio del personaje.
 
 ▶ **Frecuencia del servicio:** El efreeti servirá al personaje que lo liberó (y solo a ese personaje) una vez al día.
 
@@ -182,7 +182,7 @@ El personaje que porte este cinturón obtiene la fuerza de un gigante de las col
 
 ▶ **Capacidades de combate:** Las capacidades de combate del personaje se ven aumentadas: el personaje ataca como si fuera un monstruo con 8 Dados de Golpe. Si el personaje ya cuenta con mejores probabilidades de ataque, el cinturón no las altera.
 
-▶ **Daño:** El portador inflige 2d8 de daño en combate, o el doble de su daño normal si se usa la regla opcional de daño de arma variable (***Combate*** en ***Reglas básicas***).
+▶ **Daño:** El portador inflige 2d8 de daño en combate, o el doble de su daño normal si se usa la regla opcional de [[10_combate#Daño por arma variable (regla opcional)|daño de arma variable]].
 
 ### Cuerda de escalada
 
@@ -213,7 +213,7 @@ Amuleto con forma de escarabajo que protege al portador de magia maléfica.
 
 ▶ **Maldiciones:** Todas se anulan sin importar el tipo.
 
-▶ ***Rayo de la muerte:*** No tiene efecto (***Fantasía clásica: Hechizos para clérigos y magos***).
+▶ ***[[05_clerigo_nivel_5#reversible-rayo-de-la-muerte|Rayo de la muerte]]:*** No tiene efecto.
 
 ▶ **Cargas:** El encantamiento del escarabajo funciona 2d6 veces.
 
@@ -248,7 +248,7 @@ El personaje que lleve estos guantes tiene Fuerza 18. Esto otorga todas las boni
 
 ▶ **Ataques sin armas:** Infligen 1d2+3 de daño.
 
-▶ **Carga:** Si se usa la regla opcional de carga detallada (***Tiempo, peso, movimiento*** en ***Reglas básicas***).
+▶ **Carga:** Si se usa [[02_tiempo_peso_movimiento#Carga (regla opcional)|la regla opcional de carga detallada]].
 
 ▶ **Peso adicional:** El personaje puede transportar un peso adicional de hasta 1 000 monedas (es decir, el personaje puede transportar
 hasta 1 400 monedas sin problemas).
@@ -267,7 +267,7 @@ Un medallón encantado con el poder de leer los pensamientos.
 
 ## Medallón: leer pensamientos 90’
 
-Un medallón encantado con el poder de leer los pensamientos. Funciona de la misma manera que el hechizo leer pensamientos (***Fantasía clásica: Hechizos para clérigos y magos***).
+Un medallón encantado con el poder de leer los pensamientos. Funciona de la misma manera que el hechizo leer pensamientos.
 
 ## Saco devorador
 
@@ -285,7 +285,7 @@ Grandes tambores de guerra que inducen al pánico a los que escuchan su ritmo.
 no se ven afectados.
 
 ▶ **Criaturas afectadas:** Son afectadas por el miedo mágico que emiten los tambores. Deben hacer una tirada de salvación contra hechizos
-o hacer un chequeo de moral con -2 (si se usan las reglas opcionales de moral; ***Moral*** en ***Reglas básicas***).
+o hacer un chequeo de moral con -2 (si se usan las reglas opcionales de [[12_moral|Moral]]).
 
 ▶ **Efectos:** Las criaturas que fallen la salvación o el chequeo de moral huyen a toda velocidad del sonido de los tambores durante 30 rondas.
 
@@ -297,7 +297,7 @@ Un yelmo de exquisito detalle, aunque maldito.
 
 ▶ **Quitar:** La maldición impide que el personaje pueda quitarse el casco.
 
-▶ **Disipar:** La maldición solo puede ser eliminada mediante la magia (extirpar maldición) o, a decisión del Árbitro, realizando una
+▶ **Disipar:** La maldición solo puede ser eliminada mediante la magia ([[03_clerigo_nivel_3#extirpar-maldicion|Extirpar maldición]]) o, a decisión del Árbitro, realizando una
 misión especial.
 
 ## Yelmo de comprensión
@@ -326,7 +326,7 @@ a responder.
 
 ## Yelmo de teletransportación
 
-Un yelmo mágico que otorga a un hechicero arcano la habilidad de lanzar el hechizo *teletransporte* (**Fantasía clásica: Hechizos para clérigos y magos**).
+Un yelmo mágico que otorga a un hechicero arcano la habilidad de lanzar el hechizo [[05_mago_nivel_5#teletransporte|Teletransporte]].
 
 ▶ **Sujeto:** El portador puede teletransportarse a sí mismo, a otra criatura u objeto.
 
@@ -334,8 +334,7 @@ Un yelmo mágico que otorga a un hechicero arcano la habilidad de lanzar el hech
 
 ▶ **Cuando se encuentra:** El poder del yelmo solo se puede usar una vez.
 
-▶ **Recarga:** Para poder ser usado de nuevo, debe lanzarse el hechizo *teletransporte* sobre el yelmo.
+▶ **Recarga:** Para poder ser usado de nuevo, debe lanzarse el hechizo [[05_mago_nivel_5#teletransporte|Teletransporte]] sobre el yelmo.
 
 ▶ **Una vez recargado:** El portador puede usar el yelmo un número ilimitado de veces (máximo una vez por ronda). Si el yelmo se
 usa sobre un sujeto reticente, pierde su poder y debe ser recargado de nuevo.
-
