@@ -1,0 +1,103 @@
+[data-md-color-scheme="ose"] {
+  --md-primary-fg-color:        #dbe8d4;
+  --md-primary-fg-color--light: #f3ffec;
+  --md-primary-fg-color--dark:  #85b06c;
+  --md-primary-bg-color:        #000000;
+}
+
+/* font size */
+.md-typeset {
+  font-size: 0.9rem;
+}
+
+/* bigger maximum width for widescreen displays */
+.md-grid {
+  max-width: 1440px;
+}
+
+/* compact navigation tabs */
+.md-tabs__item {
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+}
+
+/* h2 headings with greenish format */
+.md-typeset h2 {
+  font-weight: bold;
+  margin: 0.2em 0 0.2em;
+  border-color: #d8edd6;
+  background-color: #d8edd6;
+}
+
+/* h3 headings with bold format */
+.md-typeset h3 {
+  font-weight: bold;
+  margin: 0.2em 0 0.2em;
+}
+
+/* use triangles for unordered lists */
+.md-typeset ul {
+  list-style-type: "▶  ";
+}
+.md-typeset ul li::marker {
+  font-size: 0.75em;
+}
+
+.md-typeset ol li::marker {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+/* black horizontal lines */
+.md-typeset hr {
+  border-bottom: 0.05rem solid var(--md-default-fg-color);
+}
+
+/* caja admonition to highlight boxes and headings */
+.md-typeset .admonition.caja,
+.md-typeset details.caja {
+  border-color: #d8edd6;
+  background-color: #d8edd6;
+  font-size: 0.9rem;
+  line-height: 120%;
+}
+
+.md-typeset .admonition.caja > h2, h3, h4 {
+  font-weight: bold;
+  margin: 0.2em 0 0.2em;
+}
+
+/* format for tables */
+.md-typeset table:not([class]) th {
+  min-width: 0;
+  padding: 0.0em 0.2em;
+  font-size: 0.9rem;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.0em 0.2em;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  overflow:hidden;
+}
+
+.md-typeset__table thead {
+  background-color: black;
+  color: white;
+}
+
+.md-typeset__table tbody td {
+  font-weight: inherit;
+}
+
+.md-typeset__table tbody tr:nth-child(1) {
+  font-weight: bold;
+}
+
+.md-typeset__table tbody tr:nth-child(even) {
+  background-color: #d8edd6;
+}
+
+.md-typeset table:not([class]) td:not([align]) {
+  text-align: center;
+}
