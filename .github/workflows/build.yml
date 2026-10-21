@@ -20,3 +20,6 @@ jobs:
           curl -sSL https://install.python-poetry.org | python -
           poetry install
           poetry run mkdocs gh-deploy --force
+        env:
+          UMAMI_URL: ${{ secrets.UMAMI_URL }}
+          UMAMI_WEBSITE_ID: ${{ secrets.UMAMI_WEBSITE_ID }}

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% set umami = config.extra.umami %}
+  {% if umami and umami.url and umami.website_id %}
+    <script defer src="{{ umami.url | trim('/') }}/script.js" data-website-id="{{ umami.website_id }}" data-domains="logoff.github.io"></script>
+  {% endif %}
+{% endblock %}

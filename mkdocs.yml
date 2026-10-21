@@ -5,6 +5,7 @@ docs_dir: ./src/
 
 theme:
   name: material
+  custom_dir: overrides
   language: es
   palette:
     scheme: ose
@@ -42,6 +43,10 @@ markdown_extensions:
 
 copyright: Creado por logoff
 extra:
+  # Analítica: solo se activa si están definidas las variables de entorno
+  umami:
+    url: !ENV [UMAMI_URL, '']
+    website_id: !ENV [UMAMI_WEBSITE_ID, '']
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/logoff/ose-srd-es
